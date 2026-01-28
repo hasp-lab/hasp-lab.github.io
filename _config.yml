@@ -157,7 +157,7 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
@@ -165,7 +165,10 @@ collections:
   projects:
     output: true
   teachings:
+    output: false
+  pubs:
     output: true
+    permalink: /pubs/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
