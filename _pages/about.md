@@ -32,3 +32,4 @@ The Human-centred and AI Security, Ethics and Privacy (HASP) Lab is a research l
                             href="https://www.ingenio.upv.es/">INGENIO</a>, an interdisciplinary research centre and joint venture between the <a href="https://www.csic.es/en">Spanish National Research Council (CSIC) </a> and
                       <a href="https://www.upv.es/">Universitat Politecnica de Valencia</a>.
 
+HASP's main topics of expertise and interest are <a href="./projects/">-> here <-</a>.
