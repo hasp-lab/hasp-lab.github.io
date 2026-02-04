@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "members of the lab or group",
+          description: "HASP&#39;s current, past and associate members",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -61,9 +61,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "Multiuser Privacy",
+            },},{id: "projects-multiuser-privacy",
+          title: 'Multiuser Privacy',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
             },},{
