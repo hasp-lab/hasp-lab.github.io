@@ -16,7 +16,15 @@ related_publications: true
 
 We are surrounded by artificial intelligence. We have AI in our phones, in our computers, in our homes, in our cities, in an increasingly interconnected reality. We use AI to save time and make more accurate and automated decisions in many applications from healthcare to finance to policing to hiring. While this has brought amazing advancements, it has been shown, and there have been several headlines in the news about it, that AI may not be secure and may cause privacy violations. We need to ensure that AI treats us humans, and our data, fairly and safely, if we are to trust AI systems.
                     
-We are developing techniques for secure and privacy-respecting AI, particularly taking a human-centred approach, so that anyone, regardless of their knowledge of AI, could feel safe and in control when using it {% nocite zhan2025malicious %} {% cite sun2025case %}. We mainly focus on security and privacy in systems that use or embed AI, from voice-based or text-based AI Assistants (like ChatGPT, Gemini, Alexa, and Siri) to other types of Autonomous Systems and automated decision-making systems.     
+We are developing techniques for secure and privacy-respecting AI, particularly taking a human-centred approach, so that anyone, regardless of their knowledge of AI, could feel safe and in control when using it. We mainly focus on security and privacy in systems that use or embed AI, from voice-based or text-based AI Assistants (like ChatGPT, Gemini, Alexa, and Siri) to other types of Autonomous Systems and automated decision-making systems.     
+
+{% nocite zhan2025malicious %} 
+{% nocite sun2025case %}
+{% nocite rashid2023malprotect %} 
+{% nocite zhan2023privacy %}
+{% nocite abdi2021privacy %} 
+{% nocite such2017privacy %}
+
                       
 <h5>Related Projects</h5>
 <ul>
