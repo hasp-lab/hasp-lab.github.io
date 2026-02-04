@@ -11,13 +11,19 @@ related_publications: true
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-              <iframe width="500" height="285" src="https://player.vimeo.com/video/277981232"></iframe>
+              <iframe  src="https://player.vimeo.com/video/277981232"></iframe>
                   </div>
 </div>
 
 Privacy is not just about what an individual user discloses about herself, it also involves what her friends may disclose about her. Multiuser privacy (also called Multiparty Privacy, Interdependent Privacy or Bystander Privacy) is concerned with information pertaining to several individuals and the conflicts that arise when the privacy preferences of these individuals differ. One typical example is a group photo, what one person does with that photo may have privacy implications for the others in the group. This problem happens across many modern technologies, including Social Media, Cloud Computing, Internet of Things / Smart Homes, etc.
 
-We have already made several contributions to multiuser privacy, from generating empirical evidence needed to understand the problem to AI-based methods to resolve multiuser privacy conflicts that we tested with users with successful results. For a recent review of the field see pub (*) below. 
+We have already made several contributions to multiuser privacy, from generating empirical evidence needed to understand the problem to AI-based methods to resolve multiuser privacy conflicts that we tested with users with successful results. See below some selected publications we contributed over the years. Also, for recent reviews in specific domains see below {% cite such2018multiparty %} (social media) and {% cite saqib2025bystander %} (iot/smart devices), and see {%  zhan2024beyond %} for challenges for multiuser privacy in LLMs and GenAI.
+
+{% nocite alhelali2023multiuser %}
+{% nocite mosca2021elvira %}
+{% nocite fogues2017sharing %}
+{% nocite such2017photo %}
+{% nocite such2016resolving %} 
           
 <h5>Related Projects</h5>
 <ul>
