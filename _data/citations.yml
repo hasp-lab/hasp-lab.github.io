@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-04'
+  last_updated: '2026-02-06'
 papers:
   xNr_IMUAAAAJ:-38epGy1wY0C:
     citations: 7
@@ -30,7 +30,7 @@ papers:
     title: 'Voice app developer experiences with alexa and google assistant: juggling risks, liability, and security'
     year: '2024'
   xNr_IMUAAAAJ:1xBWf43XMUgC:
-    citations: 43
+    citations: 44
     title: Measuring alexa skill privacy practices across three years
     year: '2022'
   xNr_IMUAAAAJ:2Q0AJrNhS-QC:
@@ -86,7 +86,7 @@ papers:
     title: Extended Abstract of Privacy-enhanced AI Assistants based on Dialogues and Case Similarity
     year: '2024'
   xNr_IMUAAAAJ:5LPo_wSKItgC:
-    citations: 491
+    citations: 493
     title: 'Bias and discrimination in AI: a cross-disciplinary perspective'
     year: '2021'
   xNr_IMUAAAAJ:5nxA0vEk-isC:
@@ -198,7 +198,7 @@ papers:
     title: 'Sharing policies in multiuser privacy scenarios: Incorporating context, preferences, and arguments in decision making'
     year: '2017'
   xNr_IMUAAAAJ:I-2NeQpV75MC:
-    citations: 62
+    citations: 63
     title: 'Healthcare voice AI assistants: factors influencing trust and intention to use'
     year: '2024'
   xNr_IMUAAAAJ:IExZWSxeYXUC:
@@ -286,7 +286,7 @@ papers:
     title: Grand Challenges in Human-Centered Privacy
     year: '2025'
   xNr_IMUAAAAJ:N6_Y7JlWxwsC:
-    citations: 281
+    citations: 282
     title: 'Smart Home Personal Assistants: A Security and Privacy Review'
     year: '2020'
   xNr_IMUAAAAJ:NU-BerS4NX4C:
