@@ -48,7 +48,7 @@ ninja.data = [{
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
+              window.location.href = "/books/the_godfather/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -59,27 +59,27 @@ ninja.data = [{
           title: 'First work on privacy in human-ai romantic relationships',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
+              window.location.href = "/news/announcement_2/";
             },},{id: "projects-ai-privacy-and-security",
           title: 'AI Privacy and Security',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
+              window.location.href = "/projects/1_project/";
             },},{id: "projects-ai-ethics-and-online-harms",
           title: 'AI Ethics and Online Harms',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
+              window.location.href = "/projects/2_project/";
             },},{id: "projects-human-centred-privacy-and-security",
           title: 'Human-centred Privacy and Security',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
+              window.location.href = "/projects/3_project/";
             },},{id: "projects-multiuser-privacy",
           title: 'Multiuser Privacy',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project.html";
+              window.location.href = "/projects/4_project/";
             },},{
         id: 'social-email',
         title: 'email',
