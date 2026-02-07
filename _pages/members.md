@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-#Faculty and Research Staff
+# Faculty and Research Staff
 
 ## <img src="assets/img/roundPics/jsuch.png" alt="Jose Such" height="80" width=auto style="vertical-align:middle">  Jose Such, Head
 
