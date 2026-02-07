@@ -6,7 +6,7 @@ description: HASP's main research themes.
 nav: true
 nav_order: 2
 display_categories: 
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
@@ -29,7 +29,7 @@ horizontal: true
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-md-4">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
