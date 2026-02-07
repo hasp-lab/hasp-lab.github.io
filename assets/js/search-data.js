@@ -28,6 +28,13 @@ ninja.data = [{
           description: "HASP&#39;s current, past and associate members",
           section: "Navigation",
           handler: () => {
+            window.location.href = "/members/";
+          },
+        },{id: "nav-people",
+          title: "people",
+          description: "HASP&#39;s current, past and associate members",
+          section: "Navigation",
+          handler: () => {
             window.location.href = "/people/";
           },
         },{id: "books-the-godfather",
@@ -41,8 +48,8 @@ ninja.data = [{
           section: "News",},{id: "news-five-papers-accepted-at-chi-2026",
           title: 'Five papers accepted at CHI 2026.',
           description: "",
-          section: "News",},{id: "news-first-work-on-privacy-in-romantic-human-ai-romantic-relationships",
-          title: 'First work on privacy in romantic human-ai romantic relationships',
+          section: "News",},{id: "news-first-work-on-privacy-in-human-ai-romantic-relationships",
+          title: 'First work on privacy in human-ai romantic relationships',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
