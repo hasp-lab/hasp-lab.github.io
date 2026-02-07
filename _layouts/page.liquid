@@ -21,7 +21,7 @@ layout: default
   {% if page.related_publications %}
     <h2>Selected Publications</h2>
     <div class="publications">
-      {% bibliography --cited_in_order %}
+      {% bibliography --cited_in_order --group_by none %}
     </div>
     See more related publications in our Publications page.
   {% endif %}
