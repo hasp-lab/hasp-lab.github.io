@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First work on privacy in romantic human-ai romantic relationships
+title: First work on privacy in human-ai romantic relationships
 date: 2026-01-16 15:59:00-0400
 inline: false
 related_posts: false
