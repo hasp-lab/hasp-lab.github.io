@@ -7,6 +7,26 @@ nav: true
 nav_order: 4
 ---
 
+#Faculty and Research Staff
+
+## <img src="assets/img/roundPics/jsuch.png" alt="Jose Such" height="80" width=auto style="vertical-align:middle">  Jose Such, Head
+
+Jose Such is Professor in the
+                    Department of Informatics at
+                    King’s College London and
+                    Director of the KCL
+                    Cybersecurity Centre. His
+                    research interests are at the
+                    intersection of artificial
+                    intelligence, human-computer
+                    interaction and cybersecurity,
+                    with a strong focus on
+                    human-centred AI security,
+                    ethics, and privacy. He has
+                    been Principal Investigator
+                    for projects funded by UKRI,
+                    EPSRC, ICO, NCSC, and Google.
+                    
 <div class="row">
                 <div class="  justified">
 
