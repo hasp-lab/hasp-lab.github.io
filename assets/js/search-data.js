@@ -35,18 +35,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-five-papers-accepted-at-chi-2026",
           title: 'Five papers accepted at CHI 2026.',
           description: "",
-          section: "News",},{id: "projects-ai-privacy-and-security",
+          section: "News",},{id: "news-first-work-on-privacy-in-romantic-human-ai-romantic-relationships",
+          title: 'First work on privacy in romantic human-ai romantic relationships',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2.html";
+            },},{id: "projects-ai-privacy-and-security",
           title: 'AI Privacy and Security',
           description: "",
           section: "Projects",handler: () => {
