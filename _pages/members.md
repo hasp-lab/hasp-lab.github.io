@@ -9,7 +9,7 @@ nav_order: 4
 
 # Faculty and Research Staff
 
-## <img src="assets/img/roundPics/jsuch.png" alt="Jose Such" height="80" width=auto style="vertical-align:middle">  Jose Such, Head
+## {% include figure.liquid loading="eager" path="assets/img/roundPics/jsuch.png" class="img-fluid rounded z-depth-1" %} Jose Such, Head
 
 Jose Such is Professor in the
                     Department of Informatics at
