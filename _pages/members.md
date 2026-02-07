@@ -7,9 +7,9 @@ nav: true
 nav_order: 4
 ---
 
-# Faculty and Research Staff
+## Faculty and Research Staff
 
-## {% include figure.liquid loading="eager" path="assets/img/roundPics/jsuch.png" class="img-fluid rounded z-depth-1" %} Jose Such, Head
+#### Jose Such, Head
 
 Jose Such is Professor in the
                     Department of Informatics at
@@ -26,6 +26,7 @@ Jose Such is Professor in the
                     been Principal Investigator
                     for projects funded by UKRI,
                     EPSRC, ICO, NCSC, and Google.
+                    {% include figure.liquid loading="eager" path="assets/img/roundPics/jsuch.png" class="img-fluid rounded z-depth-1" %} 
                     
 <div class="row">
                 <div class="  justified">
