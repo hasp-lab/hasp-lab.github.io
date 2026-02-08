@@ -28,19 +28,19 @@ Our goal was not to judge these relationships, but to listen carefully and ident
 ---
 
 ## What We Found
-### 1. These Relationships Evolve Over Time
+#### 1. These Relationships Evolve Over Time
 
 We found that human–AI romantic relationships often follow stages similar to human relationships: an initial phase of curiosity, growing emotional closeness, and sometimes disengagement or breakup. As intimacy increases, people tend to share more personal information—often without fully realizing how much they are revealing.
 
-### 2. AI Is Often Seen as an Active Partner
+#### 2. AI Is Often Seen as an Active Partner
 
 Many participants described their AI companion as having a kind of agency. Even though they knew the AI wasn’t human, they felt it “listened,” “understood,” and responded emotionally. This perception shaped how people shared information. Trust in the AI—real or perceived—frequently led to disclosures of sensitive topics such as trauma, mental health struggles, or family conflict.
 
-### 3. Privacy Risks Are Emotional as Well as Technical
+#### 3. Privacy Risks Are Emotional as Well as Technical
 
 Participants expressed concerns about where their conversations were stored, who could access them, and how their data might be used in the future. But privacy worries weren’t only about data leaks. Because these conversations carried emotional weight, the idea of exposure felt especially violating. Platform designs that encourage openness and emotional bonding can unintentionally amplify these risks.
 
-### 4. People Actively Manage Their Privacy
+#### 4. People Actively Manage Their Privacy
 
 Despite these challenges, users were not passive. Many developed personal strategies to protect themselves—using pseudonyms, avoiding real names or locations, limiting certain disclosures, or mentally separating their AI relationship from the rest of their digital life. These strategies reflect a strong desire for agency, even when platform controls are limited.
 
