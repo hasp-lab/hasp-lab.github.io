@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+        },{id: "post-privacy-in-human-ai-romance",
+        
+          title: "Privacy in human-ai romance",
+        
+        description: "First work on privacy in human-ai romantic relationships",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/AIromance/";
+          
+        },
+      },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-five-papers-accepted-at-chi-2026",
