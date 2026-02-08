@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI Ethics and Online Harms
+title: AI Ethics
 description: 
 img: assets/img/ethics-online-harm.jpg
 importance: 2
@@ -20,9 +20,23 @@ As more and more tasks and decisions are delegated to AI-enabled computers, mobi
                     
 1) Value-based and explainable AI, where we are developing AI models that are able to reason about human values, so that AI models act according to them. We also work on making AI models more transparent and explainable, so that users can better understand what they do and why. We have already proven that, in some specific recommendation domains, making AI value-aligned and explainable leads to more accpetable and satisfying recommendations. This also allows for a better way to scrutinise AI models in general.  
 
-2) AI Discrimination, where users may be treated unfairly or just differently based on their personal characteristics (e.g. gender, ethnicity, religion, etc.). Interestingly, AI very often reproduces existing instances of discrimination in the offline world by either inheriting the biases of prior decision makers, or simply reflecting widespread prejudices in society. Therefore, by developing methods to study AI discrimination, this also enables us to understand instances of human discrimination. For instance, we have applied our methods to discover biases in natural language processing models to discover dangerous prejudices in online communities using their own language (usually containing slang). 
+2) AI Discrimination, where users may be treated unfairly or just differently based on their personal characteristics (e.g. gender, ethnicity, religion, etc.). Here, we work both on studying where AI biases may lead to discrimination, as well as on methods to make AI fairer. 
 
 Our research in this domain often involves cross-disciplinary collaborations, including colleagues from the social sciences, digital humanities, law, ethics and policy/governance.  
+
+{% nocite zhan2025malicious %} 
+{% nocite kopecka2024role %}
+{% nocite kopecka2024preferences %}
+{% nocite szabo2024moral %} 
+{% nocite sun2024building %} 
+{% nocite seymour2023systematic %} 
+{% nocite ghafouri2023ai %}
+{% nocite jorgensen2023not %} 
+{% nocite nuenen2022intersectional %}
+{% nocite mosca2022explainable %}
+{% nocite ferrer2021bias %}
+{% nocite vanNuenen2020transparency %}
+
                       
 <h5>Related Projects</h5>
 <ul>

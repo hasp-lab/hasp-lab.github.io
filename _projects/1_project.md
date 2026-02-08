@@ -18,8 +18,12 @@ We are surrounded by artificial intelligence. We have AI in our phones, in our c
                     
 We are developing techniques for secure and privacy-respecting AI, particularly taking a human-centred approach, so that anyone, regardless of their knowledge of AI, could feel safe and in control when using it. We mainly focus on security and privacy in systems that use or embed AI, from voice-based or text-based AI Assistants (like ChatGPT, Gemini, Alexa, and Siri) to other types of Autonomous Systems and automated decision-making systems.     
 
+
 {% nocite zhan2025malicious %} 
 {% nocite sun2025case %}
+{% nocite ma2025privacy %}
+{% nocite seymour2024voice %} 
+{% nocite seymour2023legal %} 
 {% nocite rashid2023malprotect %} 
 {% nocite zhan2023privacy %}
 {% nocite abdi2021privacy %} 
