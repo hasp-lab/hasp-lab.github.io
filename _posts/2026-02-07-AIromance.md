@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Privacy in human-ai romance
+title: Privacy in Human-AI Romance
 date: 2026-02-07 16:40:16
 description: First work on privacy in human-ai romantic relationships
 tags: AI privacy

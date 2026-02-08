@@ -28,7 +28,8 @@ Jose Such is Professor in the
                     been Principal Investigator
                     for projects funded by UKRI,
                     EPSRC, ICO, NCSC, and Google.
-                    <img src="assets/img/jsuch.png" alt="Jose Such" height="80" width=auto>
+                {% include figure.liquid loading="eager" path="assets/img/jsuch.png" class='img-fluid z-depth-1 rounded-circle'
+                alt=Jose %}
 ---
 
 
