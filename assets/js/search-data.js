@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/members/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "HASP&#39;s current, past and associate members",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "nav-blog",
           title: "blog",
           description: "",
