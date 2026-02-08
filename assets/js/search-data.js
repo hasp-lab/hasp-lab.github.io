@@ -48,8 +48,8 @@ ninja.data = [{
             window.location.href = "/blog/2026/AIromance/";
           
         },
-      },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+      },{id: "news-paper-accepted-at-ieee-s-amp-amp-p-2026-he-et-al-2026",
+          title: 'Paper accepted at IEEE S&amp;amp;amp;P 2026 (He et al., 2026)',
           description: "",
           section: "News",},{id: "news-five-papers-accepted-at-chi-2026",
           title: 'Five papers accepted at CHI 2026.',
