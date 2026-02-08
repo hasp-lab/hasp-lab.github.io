@@ -11,7 +11,10 @@ nav_order: 4
 
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/jsuch.png" class='img-fluid z-depth-1 rounded-circle' height="80" width=auto alt='Jose' %}
+{% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+
+{% include figure.liquid loading="eager" path="assets/img/roundPics/jsuch.png" class='img-fluid z-depth-1 rounded-circle' sizes=sizes alt='Jose' %}
+
 #### **Jose Such, Head**
 
 Jose Such is Professor in the
