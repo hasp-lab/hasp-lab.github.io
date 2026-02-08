@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "post-privacy-in-human-ai-romance",
         
-          title: "Privacy in human-ai romance",
+          title: "Privacy in Human-AI Romance",
         
         description: "First work on privacy in human-ai romantic relationships",
         section: "Posts",
@@ -64,9 +64,7 @@ ninja.data = [{
           section: "News",},{id: "news-first-work-on-privacy-in-human-ai-romantic-relationships",
           title: 'First work on privacy in human-ai romantic relationships',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "projects-ai-privacy-and-security",
+          section: "News",},{id: "projects-ai-privacy-and-security",
           title: 'AI Privacy and Security',
           description: "",
           section: "Projects",handler: () => {
