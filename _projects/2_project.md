@@ -24,7 +24,7 @@ As more and more tasks and decisions are delegated to AI-enabled computers, mobi
 
 Our research in this domain often involves cross-disciplinary collaborations, including colleagues from the social sciences, digital humanities, law, ethics and policy/governance.  
 
-{% nocite zhan2025malicious %} 
+{% nocite hernandez2026decentralized %} 
 {% nocite kopecka2024role %}
 {% nocite kopecka2024preferences %}
 {% nocite szabo2024moral %} 
@@ -32,7 +32,6 @@ Our research in this domain often involves cross-disciplinary collaborations, in
 {% nocite seymour2023systematic %} 
 {% nocite ghafouri2023ai %}
 {% nocite jorgensen2023not %} 
-{% nocite nuenen2022intersectional %}
 {% nocite mosca2022explainable %}
 {% nocite ferrer2021bias %}
 {% nocite vanNuenen2020transparency %}

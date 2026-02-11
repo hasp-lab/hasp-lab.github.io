@@ -25,6 +25,7 @@ Interestingly, AI very often reproduces existing instances of discrimination in 
 {% nocite ashwini2024differences %}
 {% nocite ghafouri2024transformer %}
 {% nocite bispham2023misinformation %}
+{% nocite nuenen2022intersectional %}
 {% nocite ferrer2021discoveringtkde %} 
 {% nocite ferrer2021discovering %} 
 
