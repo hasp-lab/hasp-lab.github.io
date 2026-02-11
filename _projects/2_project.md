@@ -5,7 +5,7 @@ description:
 img: assets/img/ethics-online-harm.jpg
 importance: 2
 category: work
-giscus_comments: false
+related_publications: true
 ---
 
 <div class="row justify-content-sm-center">

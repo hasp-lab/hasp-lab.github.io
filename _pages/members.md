@@ -12,7 +12,7 @@ nav_order: 4
 ---
 
 
-{% include figure.liquid loading="eager" path="assets/img/roundPics/jsuch.png" class='img-fluid z-depth-1 rounded-circle' alt='Jose' %}
+{% include figure.liquid loading="eager" path="assets/img/jsuch.png" class='img-fluid z-depth-1 rounded-circle' alt='Jose' %}
 
 #### **Jose Such, Head**
 
@@ -37,35 +37,6 @@ Jose Such is Professor in the
 
 <div class="row">
                 <div class="  justified">
-
-                    <h3>Faculty and Research Staff</h3>
-                    <br>
-                    
-                    <h5><img src="assets/img/roundPics/jsuch.png" alt="Jose Such" height="80" width=auto style="vertical-align:middle">  Jose Such, Head</h5>
-                    <p>Prof Jose Such is Professor in the
-                    Department of Informatics at
-                    King’s College London and
-                    Director of the KCL
-                    Cybersecurity Centre. His
-                    research interests are at the
-                    intersection of artificial
-                    intelligence, human-computer
-                    interaction and cybersecurity,
-                    with a strong focus on
-                    human-centred AI security,
-                    ethics, and privacy. He has
-                    been Principal Investigator
-                    for projects funded by UKRI,
-                    EPSRC, ICO, NCSC, and Google.
-                        <a
-                    href="https://nms.kcl.ac.uk/jose.such/"><span
-                    style="font-size:15px;color:#1f618d"
-                    class="glyphicon
-                  glyphicon-home"></span></a>
-                  <script>func("jose.such");</script>
-                 <a
-                  href="https://twitter.com/josemsuch"><span style="font-size:18px;color:#1f618d" class="fa fa-twitter"></a>
-                    </p>
                         
                     <h5><img src="assets/img/roundPics/wseymour.png" alt="William Seymour" height="80" width=auto style="vertical-align:middle">  William Seymour, Lecturer</h5>
                     <p>Dr William Seymour is a lecturer in cybersecurity conducting research on privacy, security, and ethics for user-facing AI systems. He was previously on the EPSRC-funded Secure AI Assistants project exploring ways of explaining the privacy and security behaviours of AI assistants. Before this he was part of a project with the ICO on the future of data protection in smart homes. He recieved his DPhil in Cybersecurity from the University of Oxford.
