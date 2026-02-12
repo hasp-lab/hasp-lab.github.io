@@ -12,73 +12,66 @@ nav_order: 4
 ---
 
 <div class="row">
-    <div class="w-10">
+    <div class="w-15">
         {% include figure.liquid path="assets/img/jsuch.jpg" title="jose such" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col">
-        <h3><strong>Jose Such, Head</strong></h3>
+        <div class="col align-self-center">
+        <h5><strong>Jose Such, Head</strong></h5>
     </div>
 </div>
 
 
-
-Jose Such is Professor in the
-                    Department of Informatics at
-                    King’s College London and
-                    Director of the KCL
-                    Cybersecurity Centre. His
-                    research interests are at the
-                    intersection of artificial
-                    intelligence, human-computer
-                    interaction and cybersecurity,
-                    with a strong focus on
-                    human-centred AI security,
-                    ethics, and privacy. He has
-                    been Principal Investigator
-                    for projects funded by UKRI,
-                    EPSRC, ICO, NCSC, and Google.
+Prof Jose Such is Research Professor at the Spanish National Research Council (CSIC), where he leads the Human-centred AI Security, Ethics and Privacy (HASP) Lab at the INGENIO (CSIC-UPV) research institute. Previously, he was Full Professor of Computer Science at King’s College London in the UK from 2021 to 2025 and Full Professor (part-time) at Universitat Politecnica de Valencia from 2023 to 2025. At King’s, he was the founder and Director (2018-2025) of the King’s Cybersecurity Centre, an Academic Centre of Excellence in Cyber Security Research (ACE-CSR) recognised by NCSC and EPSRC. Before this, he was also Reader (2018-2021) and Senior Lecturer (2016-2018) at King’s College London, Lecturer (2012-2016) at Lancaster University, and he completed a PhD at Universitat Politecnica de Valencia in 2011. His research interests are at the intersection between Artificial Intelligence, Human-Computer Interaction, and Cyber Security, having published in the top venues in these fields (IJCAI, AAAI, ICML, AAMAS, EMNLP, CHI, CSCW, IEEE S&P, Usenix Security, PETS, SOUPS). Jose is Associate Editor of IEEE Security & Privacy, and his research has been funded through a multi-million pound portfolio of projects by UKRI, EPSRC, ICO, UK Government, Google, InnovateUK, INCIBE, AEI and GVA.
                 
+---
+
+<div class="row">
+    <div class="w-15">
+        {% include figure.liquid path="assets/img/gonzalo.jpg" title="gonzalo" class="img-fluid z-depth-1 rounded-circle" %}
+    </div>
+        <div class="col align-self-center">
+        <h5><strong>Gonzalo Gabriel M&eacute;ndez, Postdoctoral Researcher</strong></h5>
+    </div>
+</div>
+
+Dr Gonzalo Gabriel M&eacute;ndez works at the intersection of Human-Computer Interaction (HCI) and Information Visualization. He holds a Ph.D. in Computer Science from the University of St Andrews, Scotland, where he focused on constructive tools for authoring data visualizations. He later completed a postdoctoral fellowship at the University of Calgary, Canada. Gonzalo's current research explores the human aspects of AI-based technologies, aiming to leverage visual representations to create interfaces that help users control their privacy in the age of AI.
 ---
 
 
 <div class="row">
-                <div class="  justified">
-                        
-                    <h5><img src="assets/img/roundPics/wseymour.png" alt="William Seymour" height="80" width=auto style="vertical-align:middle">  William Seymour, Lecturer</h5>
-                    <p>Dr William Seymour is a lecturer in cybersecurity conducting research on privacy, security, and ethics for user-facing AI systems. He was previously on the EPSRC-funded Secure AI Assistants project exploring ways of explaining the privacy and security behaviours of AI assistants. Before this he was part of a project with the ICO on the future of data protection in smart homes. He recieved his DPhil in Cybersecurity from the University of Oxford.
-                        <a
-                    href="https://www.kcl.ac.uk/people/william-seymour"><span
-                    style="font-size:15px;color:#1f618d"
-                    class="glyphiconglyphicon-home"></span></a></a>
-                        <script>func("william.1.seymour");</script>
-                    </p>
-                        
-                    <h5><img src="assets/img/roundPics/gonzalo.png" alt="Gonzalo Gabriel" height="80" width=auto style="vertical-align:middle">  Gonzalo Gabriel M&eacute;ndez, Postdoctoral Researcher</h5>
-                    <p>Dr Gonzalo Gabriel M&eacute;ndez works at the intersection of Human-Computer Interaction (HCI) and Information Visualization. He holds a Ph.D. in Computer Science from the University of St Andrews, Scotland, where he focused on constructive tools for authoring data visualizations. He later completed a postdoctoral fellowship at the University of Calgary, Canada. Gonzalo's current research explores the human aspects of AI-based technologies, aiming to leverage visual representations to create interfaces that help users control their privacy in the age of AI.
-                    <a href="mailto:ggmenco1@upv.es"><span style="font-size:15px;color:#1f618d" class="glyphicon glyphicon-envelope"></span></a></p>
+    <div class="w-15">
+        {% include figure.liquid path="assets/img/xzhan.png" title="xiao" class="img-fluid z-depth-1 rounded-circle" %}
+    </div>
+        <div class="col align-self-center">
+        <h5><strong>Xiao Zhan, Postdoctoral Researcher</strong></h5>
+    </div>
+</div>
 
+Dr Xiao Zhan is a postdoctoral researcher working on addressing safety, security and privacy concerns in LLMs and multimodal LLMs. She obtained her PhD by examining the dynamics of privacy norms and trust in the context of AI assistants.
 
-                    <h5><img src="assets/img/roundPics/cmaidhof.png" alt="Caterina Maidhof" height="80" width=auto style="vertical-align:middle"> Caterina Maidhof, Predoctoral Researcher</h5>
-                    <p> Caterina is interested in how humans make privacy and security trade-offs when interacting with potentially sensitive and safety-critical data and technology. She has a background in communication and psychology. In her PhD studies at the RWTH Aachen University, Germany,  she investigated privacy perceptions and technology acceptance among different users of video-based assistive technologies.
-                        <a href="mailto:cmaidho@upvnet.upv.es"><span style="font-size:15px;color:#1f618d" class="glyphicon glyphicon-envelope"></span></a></p>
-                    
+---
 
-                    <h5><img src="assets/img/roundPics/xzhan.png" alt="Xiao Zhan" height="80" width=auto style="vertical-align:middle"> Xiao (Nicole) Zhan, Postdoctoral Researcher</h5>
-                    <p> Dr Xiao Zhan is a postdoctoral researcher working on the EPSRC-funded Secure AI Assistants (SAIS) project, where she specializes in addressing safety and privacy concerns in LLM-based conversational AIs. She obtained her PhD by examining the dynamics of privacy norms and trust in the context of AI assistants.
-                    <a href="mailto:xiao.zhan@kcl.ac.uks"><span style="font-size:15px;color:#1f618d" class="glyphicon glyphicon-envelope"></span></a></p>
-    
-                    <h5><img src="assets/img/roundPics/ikaleva.png" alt="Ina Kaleva" height="80" width=auto style="vertical-align:middle"> Ina Kaleva, Predoctoral Researcher</h5>
-                    <p> Ina Kaleva is a research assistant at King's College London working on the Secure AI Assistants (SAIS) project, where she explores users' views on and experiences with generative AI tools when seeking sexual and reproductive health-related information or advice. She holds an MSc degree in Mental Health Studies at King's College London and has a background in digital mental health.
-                    <a href="mailto:ina.kaleva@kcl.ac.uks"><span style="font-size:15px;color:#1f618d" class="glyphicon glyphicon-envelope"></span></a></p>
-    
+<div class="row">
+    <div class="w-15">
+        {% include figure.liquid path="assets/img/cmaidhof.png" title="caterina" class="img-fluid z-depth-1 rounded-circle" %}
+    </div>
+        <div class="col align-self-center">
+        <h5><strong>Caterina Maidhof, Postdoctoral Researcher</strong></h5>
+    </div>
+</div>
 
+Dr Caterina Maidhof is interested in how humans make privacy and security trade-offs when interacting with potentially sensitive and safety-critical data and technology. She has a background in communication and psychology. She completed a PhD at the RWTH Aachen University, Germany, where she investigated privacy perceptions and technology acceptance among different users of video-based assistive technologies.
+                
+                 
+---
 
-                    <br><br>
+<br><br>
 
                     
-                    
-                    <h3>Research Students</h3>
-                    <br>
+## Research Students
+--- 
+
+Ina Kaleva is a research assistant at King's College London working on the Secure AI Assistants (SAIS) project, where she explores users' views on and experiences with generative AI tools when seeking sexual and reproductive health-related information or advice. She holds an MSc degree in Mental Health Studies at King's College London and has a background in digital mental health. 
 
                     <h5><img src="assets/img/roundPics/hkopecka.png" alt="Hana Kopecka" height="80" width=auto style="vertical-align:middle">  Hana Kopecka, PhD Student</a></h5> <!--<a href="https://www.kcl.ac.uk/people"> -->
                     <p>Hana is interested in the
