@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-privacy-in-human-ai-romance",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2025-08-13-maliciousLLM/";
+          
+        },
+      },{id: "post-privacy-in-human-ai-romance",
         
           title: "Privacy in Human-AI Romance",
         
@@ -50,6 +61,9 @@ ninja.data = [{
         },
       },{id: "news-paper-accepted-at-ieee-s-amp-amp-p-2026-he-et-al-2026",
           title: 'Paper accepted at IEEE S&amp;amp;amp;P 2026 (He et al., 2026)',
+          description: "",
+          section: "News",},{id: "news-when-llms-turn-malicious-how-ai-can-trick-people-into-revealing-personal-data",
+          title: 'When LLMs Turn Malicious: How AI Can Trick People Into Revealing Personal Data...',
           description: "",
           section: "News",},{id: "news-five-papers-accepted-at-chi-2026",
           title: 'Five papers accepted at CHI 2026.',
