@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/2025-08-13-maliciousLLM/";
-          
-        },
-      },{id: "post-privacy-in-human-ai-romance",
+        },{id: "post-privacy-in-human-ai-romance",
         
           title: "Privacy in Human-AI Romance",
         
@@ -57,6 +46,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/AIromance/";
+          
+        },
+      },{id: "post-malicious-llms-deceive-people",
+        
+          title: "Malicious LLMs deceive people",
+        
+        description: "How AI Can Trick People Into Revealing Personal Data",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/maliciousllms/";
           
         },
       },{id: "news-when-llms-turn-malicious-how-ai-can-trick-people-into-revealing-personal-data-paper-at-usenix-security-2025",
