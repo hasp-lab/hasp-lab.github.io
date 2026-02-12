@@ -7,6 +7,8 @@ nav: true
 nav_order: 4
 ---
 
+<br><br>
+
 ## Faculty and Research Staff
 
 ---
@@ -60,6 +62,16 @@ Dr Xiao Zhan is a postdoctoral researcher working on addressing safety, security
 Dr Caterina Maidhof is interested in how humans make privacy and security trade-offs when interacting with potentially sensitive and safety-critical data and technology. She has a background in communication and psychology. She completed a PhD at the RWTH Aachen University, Germany, where she investigated privacy perceptions and technology acceptance among different users of video-based assistive technologies.
                 
                  
+<div class="row">
+    <div class="w-15">
+        {% include figure.liquid path="assets/roundPics/hkopecka.png" title="hana" class="img-fluid z-depth-1 rounded-circle" %}
+    </div>
+        <div class="col align-self-center">
+        <h5><strong>Hana Kopecka, Postdoctoral Researcher</strong></h5>
+    </div>
+</div>
+
+Dr Hana Kopecka is interested in the intersection of artificial intelligence and sociology. Her PhD focused on the interaction between AI systems and users. In particular, she is interested in exploring how different communities interact with AI systems and how could this inform the design of more understandable AI explanations.
 
 <br><br>
 
@@ -79,31 +91,16 @@ Dr Caterina Maidhof is interested in how humans make privacy and security trade-
 
 Ina Kaleva is PhD student at King's College London, where she explores users' views on and experiences with generative AI tools by specific user groups, including women's use of GenAI for femhealth and general use of GenAI by children and adolescents. She holds an MSc degree in Mental Health Studies at King's College London and has a background in digital mental health. 
 
-                    <h5><img src="assets/img/roundPics/hkopecka.png" alt="Hana Kopecka" height="80" width=auto style="vertical-align:middle">  Hana Kopecka, PhD Student</a></h5> <!--<a href="https://www.kcl.ac.uk/people"> -->
-                    <p>Hana is interested in the
-                    intersection of artificial
-                    intelligence and
-                    sociology. Her PhD is focused
-                    on the interaction between AI
-                    systems and users. In
-                    particular, she is interested
-                    in exploring how different
-                    communities interact with AI
-                    systems and how could this
-                    inform the design of more
-                    understandable AI explanations. <script>func("hana.kopecka");</script></p>
-                    
-                    <h5><img src="assets/img/roundPics/jcarlos.png" alt="Juan Carlos Carrillo" height="80" width=auto style="vertical-align:middle">  Juan Carlos Carrillo, PhD Student</h5> <!--<a href="https://www.kcl.ac.uk/people"> -->
-                        <p>As a PhD candidate at Universidad Politécnica de Valencia, Juan Carlos specializes in the trustworthiness and privacy of Large Language Models (LLMs). His academic career includes a significant project during his master's degree in cybersecurity and cyberintelligence, where he developed a system to analyze echo chambers among Spanish congress members on Twitter. His current research is dedicated to advancing the security and privacy features of LLMs.
-                        <a href="mailto:juaca10j@upv.es"><span style="font-size:15px;color:#1f618d" class="glyphicon glyphicon-envelope"></span></a> 
-                        <a href="https://www.juancarloscarrillo.tech/"><span
-                                style="font-size:15px;color:#1f618d"
-                                class="glyphiconglyphicon-home"></span></a></a>
-                                </p>
+<div class="row">
+    <div class="w-15">
+        {% include figure.liquid path="assets/roundPics/jcarlos.png" title="Juan Carlos" class="img-fluid z-depth-1 rounded-circle" %}
+    </div>
+        <div class="col align-self-center">
+        <h5><strong>Juan Carlos Carrillo</strong></h5>
+    </div>
+</div>
 
-                    <h5><img src="assets/img/roundPics/vahid-round.png" alt="Vahid Ghafouri" height="80" width=auto style="vertical-align:middle">  Vahid Ghafouri, PhD Student</a></h5> <!--<a href="https://networks.imdea.org/team/imdea-networks-team/people/vahid-ghafouri/"> -->
-                    <p>Vahid is a Ph.D. student in Telematics at IMDEA Networks Institute (+UC3M). His main area of research involves the application of NLP on social network data for measuring online polarization and radicalization. <script>func("vahid.ghafouri");</script>
-                    </p>
+As a PhD candidate at Universidad Politécnica de Valencia, Juan Carlos specializes in the trustworthiness and privacy of Large Language Models (LLMs). His academic career includes a significant project during his master's degree in cybersecurity and cyberintelligence, where he developed a system to analyze echo chambers among Spanish congress members on Twitter. His current research is dedicated to advancing the security and privacy features of LLMs. <a href="mailto:juaca10j@upv.es"><span style="font-size:15px;color:#1f618d" class="glyphicon glyphicon-envelope"></span></a> <a href="https://www.juancarloscarrillo.tech/"><span style="font-size:15px;color:#1f618d" class="glyphiconglyphicon-home"></span></a></a>
 
 
                     <h5><img src="assets/img/roundPics/chenkaima.png" alt="Chenkai Ma" height="80" width=auto style="vertical-align:middle">  Chenkai Ma, PhD Student</h5> <!--<a href="https://www.kcl.ac.uk/people"> -->
@@ -120,40 +117,39 @@ Ina Kaleva is PhD student at King's College London, where she explores users' vi
                             class="glyphiconglyphicon-home"></span></a></a>
                             </p>
 
-                    <h5><i style="font-size:70px" class="fa fa-user-circle fa-10x" aria-hidden="true"></i>
-                        <a href="TODO">Eman Alhelali</a></h5>
-                                    
-                        <h5><i style="font-size:70px" class="fa fa-user-circle fa-10x" aria-hidden="true"></i>
-                        <a href="TODO">Joseph Yashar Shams</a></h5>
-                    
-                    <br><br>
+                   
+<br><br>
 
-
-                    <h3>Previous Research Associates</h3>
-                    <br>
+## Previous Postdoctoral Researchers
+---
+                 
                     
-                    <h5><img src="assets/img/roundPics/tvannuenen.png" alt="Tom van Nuenen" height="80" width=auto style="vertical-align:middle">
+                    <h5><img src="assets/roundPics/tvannuenen.png" alt="Tom van Nuenen" height="80" width=auto style="vertical-align:middle">
                         <a href="https://scholar.google.com/citations?user=Bsq-uDoAAAAJ">Dr Tom van Nuenen</a></h5>
                    
-                    <h5><img src="assets/img/roundPics/xferreraran.png" alt="Xavier Ferrer Aran" height="80" width=auto style="vertical-align:middle">
+                    <h5><img src="assets/roundPics/xferreraran.png" alt="Xavier Ferrer Aran" height="80" width=auto style="vertical-align:middle">
                         <a href="https://scholar.google.com/citations?user=JNbrvqAAAAAJ">Dr Xavier Ferrer-Aran</a></h5>
                     
 
-                    <h5><img src="assets/img/roundPics/ssarkadi.png" alt="Stefan Sarkadi" height="80" width=auto style="vertical-align:middle">
+                    <h5><img src="assets/roundPics/ssarkadi.png" alt="Stefan Sarkadi" height="80" width=auto style="vertical-align:middle">
                         <a href="https://www.stefansarkadi.com/">Dr Stefan Sarkadi</a></h5>
                     
-                    <h5><img src="assets/img/roundPics/asingh.png" alt="Ashwini Kumar" height="80" width=auto style="vertical-align:middle">
+                    <h5><img src="assets/roundPics/asingh.png" alt="Ashwini Kumar" height="80" width=auto style="vertical-align:middle">
                         <a href="https://scholar.google.com/citations?user=4J0gFtEAAAAJ&hl">Dr Ashwini Kumar Singh</a></h5>
 
                     
-                    <h5><img src="assets/img/roundPics/mbispham.png" alt="Mary K. Bispham" height="80" width=auto style="vertical-align:middle">
+                    <h5><img src="assets/roundPics/mbispham.png" alt="Mary K. Bispham" height="80" width=auto style="vertical-align:middle">
                         <a href="https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=mary+bispham&btnG=">Dr Mary Bispham</a></h5>
                             
-                    <br><br>
+<br><br>
 
+## Alumni (graduated PhD students)
+---
                 
-                    <h3>Alumni (graduated PhD students)</h3>
-                    <br>
+        
+                                        <h5><i style="font-size:70px" class="fa fa-user-circle fa-10x" aria-hidden="true"></i> <a href="https://scholar.google.com/citations?user=efZF-zMAAAAJ&hl=en">Dr Eman Alhelali</a></h5>
+                                        <h5><img src="assets/img/roundPics/vahid-round.png" alt="Vahid" height="80" width=auto style="vertical-align:middle"> 
+                        <a href="https://scholar.google.com/citations?user=RnPFjYcAAAAJ&hl=en"> Dr Vahid Ghafouri</a></h5>
                     <h5><img src="assets/img/roundPics/xzhan.png" alt="Xiao Zhan" height="80" width=auto style="vertical-align:middle"> 
                         <a href="https://scholar.google.com/citations?user=7ABKabcAAAAJ&hl=en"> Dr Xiao Zhan</a></h5>
                     <h5><img src="assets/img/roundPics/arashid.png" alt="Aqib Rashid" height="80" width=auto style="vertical-align:middle"> 
