@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="./blog/2025/maliciousLLM/">When LLMs Turn Malicious: How AI Can Trick People Into Revealing Personal Data</a>
+<a href="./blog/2025/maliciousLLM/">When LLMs Turn Malicious: How AI Can Trick People Into Revealing Personal Data</a> paper at Usenix Security 2025
