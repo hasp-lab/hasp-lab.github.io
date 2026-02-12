@@ -133,22 +133,56 @@ Shijing He is a Ph.D. student in Computer Science at King’s College London (KC
 
 ## Previous Postdoctoral Researchers
 ---
-                 
-<h5><img src="assets/roundPics/tvannuenen.png" alt="Tom van Nuenen" height="80" width=auto style="vertical-align:middle">
-                        <a href="https://scholar.google.com/citations?user=Bsq-uDoAAAAJ">Dr Tom van Nuenen</a></h5>
-                   
-<h5><img src="assets/roundPics/xferreraran.png" alt="Xavier Ferrer Aran" height="80" width=auto style="vertical-align:middle">
-                        <a href="https://scholar.google.com/citations?user=JNbrvqAAAAAJ">Dr Xavier Ferrer-Aran</a></h5>
-                    
-<h5><img src="assets/roundPics/ssarkadi.png" alt="Stefan Sarkadi" height="80" width=auto style="vertical-align:middle">
-                        <a href="https://www.stefansarkadi.com/">Dr Stefan Sarkadi</a></h5>
-                    
-<h5><img src="assets/roundPics/asingh.png" alt="Ashwini Kumar" height="80" width=auto style="vertical-align:middle">
-                        <a href="https://scholar.google.com/citations?user=4J0gFtEAAAAJ&hl">Dr Ashwini Kumar Singh</a></h5>
+
+<div class="row">
+    <div class="w-10">
+        {% include figure.liquid path="assets/roundPics/tvannuenen.png" title="Tom van Nuenen" class="img-fluid z-depth-1 rounded-circle" %}
+    </div>
+        <div class="col align-self-center">
+        <h5><strong><a href="https://scholar.google.com/citations?user=Bsq-uDoAAAAJ">Dr Tom van Nuenen</a></strong></h5>
+    </div>
+</div>
+
+<div class="row">
+    <div class="w-10">
+        {% include figure.liquid path="assets/roundPics/xferreraran.png" title="Xavier Ferrer" class="img-fluid z-depth-1 rounded-circle" %}
+    </div>
+        <div class="col align-self-center">
+        <h5><strong><a href="https://scholar.google.com/citations?user=JNbrvqAAAAAJ">Dr Xavier Ferrer-Aran</a></strong></h5>
+    </div>
+</div>
+
+<div class="row">
+    <div class="w-10">
+        {% include figure.liquid path="assets/roundPics/ssarkadi.png" title="Stefan Sarkadi" class="img-fluid z-depth-1 rounded-circle" %}
+    </div>
+        <div class="col align-self-center">
+        <h5><strong><a href="https://www.stefansarkadi.com/">Dr Stefan Sarkadi</a></strong></h5>
+    </div>
+</div>
+               
+<div class="row">
+    <div class="w-10">
+        {% include figure.liquid path="assets/roundPics/asingh.png" title="Ashwini Kumar" class="img-fluid z-depth-1 rounded-circle" %}
+    </div>
+        <div class="col align-self-center">
+        <h5><strong><a href="https://scholar.google.com/citations?user=4J0gFtEAAAAJ&hl">Dr Ashwini Kumar Singh</a></strong></h5>
+    </div>
+</div>
+
+            
+
+<div class="row">
+    <div class="w-10">
+        {% include figure.liquid path="assets/roundPics/mbispham.png" title="Mary K. Bispham" class="img-fluid z-depth-1 rounded-circle" %}
+    </div>
+        <div class="col align-self-center">
+        <h5><strong><a href="https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=mary+bispham&btnG=">Dr Mary Bispham</a></strong></h5>
+    </div>
+</div>
 
                     
-<h5><img src="assets/roundPics/mbispham.png" alt="Mary K. Bispham" height="80" width=auto style="vertical-align:middle">
-                        <a href="https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=mary+bispham&btnG=">Dr Mary Bispham</a></h5>
+
                             
 <br><br>
 
