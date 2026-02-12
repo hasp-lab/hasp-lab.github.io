@@ -230,20 +230,27 @@ Shijing He is a Ph.D. student in Computer Science at King’s College London (KC
 
 <div class="row">
     <div class="w-10">
-        {% include figure.liquid path="assets/roundPics/nabdi.png" title="Noura Abdi" class="img-fluid z-depth-1 rounded-circle" %}
+        {% include figure.liquid path="assets/roundPics/jedu.png" title="Jide Edu" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col align-self-center">
-        <h5><strong><a href="https://scholar.google.com/citations?user=FaLAkQcAAAAJ">Dr Noura Abdi </a></strong></h5>
+        <h5><strong><a href="https://scholar.google.com/citations?user=5iNjZqsAAAAJ">Dr Jide Edu</a></strong></h5>
     </div>
 </div>
 
-<h5><img src="assets/img/roundPics/jedu.png" alt="Jide Edu" height="80" width=auto style="vertical-align:middle">
-                        <a href="https://scholar.google.com/citations?user=5iNjZqsAAAAJ">Dr Jide Edu</a></h5>
-<h5> <img src="assets/img/roundPics/fmosca.png" alt="Francesca Mosca" height="80" width=auto style="vertical-align:middle">
-                        <a href="https://scholar.google.com/citations?user=AUWNJhEAAAAJ">Dr Francesca Mosca</a></h5>
+<div class="row">
+    <div class="w-10">
+        {% include figure.liquid path="assets/roundPics/fmosca.png" title="Francesca Mosca" class="img-fluid z-depth-1 rounded-circle" %}
+    </div>
+        <div class="col align-self-center">
+        <h5><strong><a href="https://scholar.google.com/citations?user=AUWNJhEAAAAJ">Dr Francesca Mosca</a></strong></h5>
+    </div>
+</div>
+
 <h5><i style="font-size:70px" class="fa fa-user-circle fa-10x" aria-hidden="true"></i>
                         <a href="https://scholar.google.com/citations?user=q35nWmQAAAAJ&hl=en&oi=ao">Dr Kopo Ramokapane</a></h5>
+                        
 <h5><i style="font-size:70px" class="fa fa-user-circle fa-10x" aria-hidden="true"></i> <a href="https://scholar.google.com/citations?user=rmLJuSQAAAAJ&hl=en">Dr Gaurav Misra</a></h5>
+
 <h5><i style="font-size:70px" class="fa fa-user-circle fa-10x" aria-hidden="true"></i> <a href="https://scholar.google.com/citations?user=G1hJmukAAAAJ&hl=en">Dr Ricard López Fogués</a></h5>
                     
 
@@ -251,7 +258,14 @@ Shijing He is a Ph.D. student in Computer Science at King’s College London (KC
 
 ## Visitors
 ---
-       
-<h5><img src="assets/img/roundPics/MRJ.png" alt="Rongjun Ma, PhD Student" height="80" width=auto style="vertical-align:middle"> 
-                        <a href="https://scholar.google.com/citations?user=tet7Qy0AAAAJ&hl=en&oi=ao"> Rongjun Ma, PhD Student </a></h5>
+
+<div class="row">
+    <div class="w-10">
+        {% include figure.liquid path="assets/roundPics/MRJ.png" title="Rongjun Ma" class="img-fluid z-depth-1 rounded-circle" %}
+    </div>
+        <div class="col align-self-center">
+        <h5><strong><a href="https://scholar.google.com/citations?user=tet7Qy0AAAAJ&hl=en&oi=ao"> Rongjun Ma</a></strong></h5>
+    </div>
+</div>
+
   
