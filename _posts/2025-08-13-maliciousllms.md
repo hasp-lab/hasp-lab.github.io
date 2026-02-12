@@ -37,11 +37,11 @@ We then conducted a controlled experiment with 502 participants who interacted w
 
 The results were striking:
 
-#### 1. Participants interacting with maliciously designed chatbots shared significantly more personal information than those talking to benign AI agents.
+1. Participants interacting with maliciously designed chatbots shared significantly more personal information than those talking to benign AI agents.
 
-#### 2. Some malicious strategies worked especially well when they mimicked natural social interaction—offering empathy, encouragement, and reciprocal self-disclosure—making people feel comfortable before they shared.
+2. Some malicious strategies worked especially well when they mimicked natural social interaction—offering empathy, encouragement, and reciprocal self-disclosure—making people feel comfortable before they shared.
 
-#### 3. Many participants didn’t realize the chatbot was intentionally guiding the conversation toward personal topics, even though the design was optimized to do just that.
+3. Many participants didn’t realize the chatbot was intentionally guiding the conversation toward personal topics, even though the design was optimized to do just that.
 
 These results reveal that, with surprisingly modest effort and basic AI design skills, someone could build a chatbot that “social engineers” users into revealing sensitive information—with little awareness from the users themselves. This isn’t just about collecting names or birthdays; prolonged dialogue can uncover education history, emotional vulnerabilities, employment details, and more.
 
