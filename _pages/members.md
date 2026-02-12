@@ -31,7 +31,7 @@ Prof Jose Such is Research Professor at the Spanish National Research Council (C
         {% include figure.liquid path="assets/roundPics/gonzalo.jpg" title="gonzalo" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col align-self-center">
-        <h5><strong>Gonzalo Gabriel M&eacute;ndez, Postdoctoral Researcher</strong></h5>
+        <h5><strong>Gonzalo Gabriel M&eacute;ndez</strong></h5>
     </div>
 </div>
 
@@ -43,7 +43,7 @@ Dr Gonzalo Gabriel M&eacute;ndez works at the intersection of Human-Computer Int
         {% include figure.liquid path="assets/roundPics/xzhan.png" title="xiao" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col-10 align-self-center">
-        <h5><strong>Xiao Zhan, Postdoctoral Researcher</strong></h5>
+        <h5><strong>Xiao Zhan</strong></h5>
     </div>
 </div>
 
@@ -55,7 +55,7 @@ Dr Xiao Zhan is a postdoctoral researcher working on addressing safety, security
         {% include figure.liquid path="assets/roundPics/cmaidhof.png" title="caterina" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col align-self-center">
-        <h5><strong>Caterina Maidhof, Postdoctoral Researcher</strong></h5>
+        <h5><strong>Caterina Maidhof</strong></h5>
     </div>
 </div>
 
@@ -67,7 +67,7 @@ Dr Caterina Maidhof is interested in how humans make privacy and security trade-
         {% include figure.liquid path="assets/roundPics/hkopecka.png" title="hana" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col align-self-center">
-        <h5><strong>Hana Kopecka, Postdoctoral Researcher</strong></h5>
+        <h5><strong>Hana Kopecka</strong></h5>
     </div>
 </div>
 
