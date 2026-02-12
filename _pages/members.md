@@ -15,7 +15,7 @@ nav_order: 4
 
 <div class="row">
     <div class="col-2">
-        {% include figure.liquid path="assets/roundPics/jsuch.jpg" title="jose such" class="img-fluid z-depth-1 rounded-circle" %}
+        {% include figure.liquid path="assets/roundPics/jsuch.png" title="jose such" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col-10 align-self-center">
         <h5><strong>Jose Such, Head</strong></h5>
@@ -28,7 +28,7 @@ Prof Jose Such is Research Professor at the Spanish National Research Council (C
 
 <div class="row">
     <div class="w-10">
-        {% include figure.liquid path="assets/roundPics/gonzalo.jpg" title="gonzalo" class="img-fluid z-depth-1 rounded-circle" %}
+        {% include figure.liquid path="assets/roundPics/gonzalo.png" title="gonzalo" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col align-self-center">
         <h5><strong>Gonzalo Gabriel M&eacute;ndez</strong></h5>
