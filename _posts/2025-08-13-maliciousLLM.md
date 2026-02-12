@@ -3,7 +3,7 @@ layout: post
 title: Malicious LLMs deceive people
 date: 2025-08-13 16:40:16
 description: When LLMs Turn Malicious: How AI Can Trick People Into Revealing Personal Data
-tags: AI privacy security safety
+tags: AI privacy security ethics
 categories: research-posts
 ---
 
