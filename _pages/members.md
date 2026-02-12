@@ -73,6 +73,15 @@ Dr Caterina Maidhof is interested in how humans make privacy and security trade-
 
 Dr Hana Kopecka is interested in the intersection of artificial intelligence and sociology. Her PhD focused on the interaction between AI systems and users. In particular, she is interested in exploring how different communities interact with AI systems and how could this inform the design of more understandable AI explanations.
 
+<div class="row">
+    <div class="col-4 col-sm-2">
+        {% include figure.liquid path="assets/roundPics/MRJ.png" title="Rongjun Ma" class="img-fluid z-depth-1 rounded-circle" %}
+    </div>
+        <div class="col-8 col-sm-10 align-self-center">
+        <h5><strong> Rongjun Ma</a></strong></h5>
+    </div>
+</div>
+
 <br><br>
 
                     
