@@ -76,7 +76,7 @@ Dr Hana Kopecka is interested in the intersection of artificial intelligence and
 <br><br>
 
                     
-## Research Students
+## PhD Students
 --- 
 
 <div class="row">
