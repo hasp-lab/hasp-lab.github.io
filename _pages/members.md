@@ -14,10 +14,10 @@ nav_order: 4
 ---
 
 <div class="row">
-    <div class="col-1">
+    <div class="col-2">
         {% include figure.liquid path="assets/roundPics/jsuch.jpg" title="jose such" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col-11 align-self-center">
+        <div class="col-10 align-self-center">
         <h5><strong>Jose Such, Head</strong></h5>
     </div>
 </div>
@@ -39,10 +39,10 @@ Dr Gonzalo Gabriel M&eacute;ndez works at the intersection of Human-Computer Int
 
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-2">
         {% include figure.liquid path="assets/roundPics/xzhan.png" title="xiao" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-10 align-self-center">
         <h5><strong>Xiao Zhan, Postdoctoral Researcher</strong></h5>
     </div>
 </div>
