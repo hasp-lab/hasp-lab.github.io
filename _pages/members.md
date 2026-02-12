@@ -15,7 +15,7 @@ nav_order: 4
 
 <div class="row">
     <div class="w-10">
-        {% include figure.liquid path="assets/img/jsuch.jpg" title="jose such" class="img-fluid z-depth-1 rounded-circle" %}
+        {% include figure.liquid path="assets/roundPics/jsuch.jpg" title="jose such" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col align-self-center">
         <h5><strong>Jose Such, Head</strong></h5>
@@ -193,26 +193,27 @@ Shijing He is a Ph.D. student in Computer Science at King’s College London (KC
 <h5><i style="font-size:70px" class="fa fa-user-circle fa-10x" aria-hidden="true"></i> <a href="https://scholar.google.com/citations?user=efZF-zMAAAAJ&hl=en">Dr Eman Alhelali</a></h5>
 <h5><img src="assets/roundPics/vahid-round.png" alt="Vahid" height="80" width=auto style="vertical-align:middle"> 
                         <a href="https://scholar.google.com/citations?user=RnPFjYcAAAAJ&hl=en"> Dr Vahid Ghafouri</a></h5>
-                        <h5><img src="assets/img/roundPics/xzhan.png" alt="Xiao Zhan" height="80" width=auto style="vertical-align:middle"> 
+<h5><img src="assets/img/roundPics/xzhan.png" alt="Xiao Zhan" height="80" width=auto style="vertical-align:middle"> 
                         <a href="https://scholar.google.com/citations?user=7ABKabcAAAAJ&hl=en"> Dr Xiao Zhan</a></h5>
-                    <h5><img src="assets/img/roundPics/arashid.png" alt="Aqib Rashid" height="80" width=auto style="vertical-align:middle"> 
+<h5><img src="assets/img/roundPics/arashid.png" alt="Aqib Rashid" height="80" width=auto style="vertical-align:middle"> 
                         <a href="https://scholar.google.com/citations?user=pc1ofzcAAAAJ"> Dr Aqib Rashid</a></h5>
-                    <h5><img src="assets/img/roundPics/nabdi.png" alt="Noura Abdi" height="80" width=auto style="vertical-align:middle">
+<h5><img src="assets/img/roundPics/nabdi.png" alt="Noura Abdi" height="80" width=auto style="vertical-align:middle">
                         <a href="https://scholar.google.com/citations?user=FaLAkQcAAAAJ">Dr Noura Abdi </a></h5>
-                    <h5><img src="assets/img/roundPics/jedu.png" alt="Jide Edu" height="80" width=auto style="vertical-align:middle">
+<h5><img src="assets/img/roundPics/jedu.png" alt="Jide Edu" height="80" width=auto style="vertical-align:middle">
                         <a href="https://scholar.google.com/citations?user=5iNjZqsAAAAJ">Dr Jide Edu</a></h5>
-                    <h5> <img src="assets/img/roundPics/fmosca.png" alt="Francesca Mosca" height="80" width=auto style="vertical-align:middle">
+<h5> <img src="assets/img/roundPics/fmosca.png" alt="Francesca Mosca" height="80" width=auto style="vertical-align:middle">
                         <a href="https://scholar.google.com/citations?user=AUWNJhEAAAAJ">Dr Francesca Mosca</a></h5>
-                    <h5><i style="font-size:70px" class="fa fa-user-circle fa-10x" aria-hidden="true"></i>
+<h5><i style="font-size:70px" class="fa fa-user-circle fa-10x" aria-hidden="true"></i>
                         <a href="https://scholar.google.com/citations?user=q35nWmQAAAAJ&hl=en&oi=ao">Dr Kopo Ramokapane</a></h5>
-                    <h5><i style="font-size:70px" class="fa fa-user-circle fa-10x" aria-hidden="true"></i> <a href="https://scholar.google.com/citations?user=rmLJuSQAAAAJ&hl=en">Dr Gaurav Misra</a></h5>
-                    <h5><i style="font-size:70px" class="fa fa-user-circle fa-10x" aria-hidden="true"></i> <a href="https://scholar.google.com/citations?user=G1hJmukAAAAJ&hl=en">Dr Ricard López Fogués</a></h5>
+<h5><i style="font-size:70px" class="fa fa-user-circle fa-10x" aria-hidden="true"></i> <a href="https://scholar.google.com/citations?user=rmLJuSQAAAAJ&hl=en">Dr Gaurav Misra</a></h5>
+<h5><i style="font-size:70px" class="fa fa-user-circle fa-10x" aria-hidden="true"></i> <a href="https://scholar.google.com/citations?user=G1hJmukAAAAJ&hl=en">Dr Ricard López Fogués</a></h5>
                     
 
-                    <br><br>
-                
-                    <h3>Visitors</h3>
-            <br>
-            <h5><img src="assets/img/roundPics/MRJ.png" alt="Rongjun Ma, PhD Student" height="80" width=auto style="vertical-align:middle"> 
+<br><br>
+
+## Visitors
+---
+       
+<h5><img src="assets/img/roundPics/MRJ.png" alt="Rongjun Ma, PhD Student" height="80" width=auto style="vertical-align:middle"> 
                         <a href="https://scholar.google.com/citations?user=tet7Qy0AAAAJ&hl=en&oi=ao"> Rongjun Ma, PhD Student </a></h5>
   
