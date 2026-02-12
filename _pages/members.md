@@ -14,7 +14,7 @@ nav_order: 4
 ---
 
 <div class="row">
-    <div class="w-15">
+    <div class="w-10">
         {% include figure.liquid path="assets/img/jsuch.jpg" title="jose such" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col align-self-center">
@@ -27,7 +27,7 @@ Prof Jose Such is Research Professor at the Spanish National Research Council (C
                 
 
 <div class="row">
-    <div class="w-15">
+    <div class="w-10">
         {% include figure.liquid path="assets/roundPics/gonzalo.jpg" title="gonzalo" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col align-self-center">
@@ -39,7 +39,7 @@ Dr Gonzalo Gabriel M&eacute;ndez works at the intersection of Human-Computer Int
 
 
 <div class="row">
-    <div class="w-15">
+    <div class="w-10">
         {% include figure.liquid path="assets/roundPics/xzhan.png" title="xiao" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col align-self-center">
@@ -51,7 +51,7 @@ Dr Xiao Zhan is a postdoctoral researcher working on addressing safety, security
 
 
 <div class="row">
-    <div class="w-15">
+    <div class="w-10">
         {% include figure.liquid path="assets/roundPics/cmaidhof.png" title="caterina" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col align-self-center">
@@ -63,7 +63,7 @@ Dr Caterina Maidhof is interested in how humans make privacy and security trade-
                 
                  
 <div class="row">
-    <div class="w-15">
+    <div class="w-10">
         {% include figure.liquid path="assets/roundPics/hkopecka.png" title="hana" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col align-self-center">
@@ -80,7 +80,7 @@ Dr Hana Kopecka is interested in the intersection of artificial intelligence and
 --- 
 
 <div class="row">
-    <div class="w-15">
+    <div class="w-10">
         {% include figure.liquid path="assets/roundPics/ikaleva.png" title="Ina" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col align-self-center">
@@ -92,7 +92,7 @@ Dr Hana Kopecka is interested in the intersection of artificial intelligence and
 Ina Kaleva is PhD student at King's College London, where she explores users' views on and experiences with generative AI tools by specific user groups, including women's use of GenAI for femhealth and general use of GenAI by children and adolescents. She holds an MSc degree in Mental Health Studies at King's College London and has a background in digital mental health. 
 
 <div class="row">
-    <div class="w-15">
+    <div class="w-10">
         {% include figure.liquid path="assets/roundPics/jcarlos.png" title="Juan Carlos" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col align-self-center">
@@ -102,20 +102,31 @@ Ina Kaleva is PhD student at King's College London, where she explores users' vi
 
 As a PhD candidate at Universidad Politécnica de Valencia, Juan Carlos specializes in the trustworthiness and privacy of Large Language Models (LLMs). His academic career includes a significant project during his master's degree in cybersecurity and cyberintelligence, where he developed a system to analyze echo chambers among Spanish congress members on Twitter. His current research is dedicated to advancing the security and privacy features of LLMs. <a href="mailto:juaca10j@upv.es"><span style="font-size:15px;color:#1f618d" class="glyphicon glyphicon-envelope"></span></a> <a href="https://www.juancarloscarrillo.tech/"><span style="font-size:15px;color:#1f618d" class="glyphiconglyphicon-home"></span></a></a>
 
+<div class="row">
+    <div class="w-10">
+        {% include figure.liquid path="assets/roundPics/chenkaima.png" title="Chenkai Ma" class="img-fluid z-depth-1 rounded-circle" %}
+    </div>
+        <div class="col align-self-center">
+        <h5><strong>Chenkai Ma</strong></h5>
+    </div>
+</div>
 
-                    <h5><img src="assets/img/roundPics/chenkaima.png" alt="Chenkai Ma" height="80" width=auto style="vertical-align:middle">  Chenkai Ma, PhD Student</h5> <!--<a href="https://www.kcl.ac.uk/people"> -->
-                    <p>Chenkai Ma is a PhD student in the Department of Informatics at King's College London (KCL). He obtained his MSc in Advanced Computing also from KCL. He worked as a software engineer at Huawei before starting his PhD. His research focuses on the intersection of security, privacy, safety, human-computer interaction (HCI), and mobile apps.
-                    <a href="mailto:chenkai.ma@kcl.ac.uk"><span style="font-size:15px;color:#1f618d" class="glyphicon glyphicon-envelope"></span></a> 
-                    </p>
+Chenkai Ma is a PhD student in the Department of Informatics at King's College London (KCL). He obtained his MSc in Advanced Computing also from KCL. He worked as a software engineer at Huawei before starting his PhD. His research focuses on the intersection of security, privacy, safety, human-computer interaction (HCI), and mobile apps.
+                 
+                    
+<div class="row">
+    <div class="w-10">
+        {% include figure.liquid path="assets/roundPics/jcarlos.png" title="Shijing He" class="img-fluid z-depth-1 rounded-circle" %}
+    </div>
+        <div class="col align-self-center">
+        <h5><strong>Shijing He</strong></h5>
+    </div>
+</div>
 
-                    <h5><img src="assets/img/roundPics/shijinghe.png" alt="Shijing He" height="80" width=auto style="vertical-align:middle">  Shijing He, PhD Student</h5> <!--<a href="https://www.kcl.ac.uk/people"> -->
-                    <p>Shijing He is a Ph.D. student in Computer Science at King’s College London (KCL), affiliated with the Cybersecurity Group in the Department of Informatics. He is working at the intersection of Usable security and privacy, HCI, Technical and Non-technical privacy interventions, and User experience design.
-                    <a href="mailto:shijing.he@kcl.ac.uk"><span style="font-size:15px;color:#1f618d" class="glyphicon glyphicon-envelope"></span></a> 
-                            <a
+Shijing He is a Ph.D. student in Computer Science at King’s College London (KCL), affiliated with the Cybersecurity Group in the Department of Informatics. He is working at the intersection of Usable security and privacy, HCI, Technical and Non-technical privacy interventions, and User experience design. <a href="mailto:shijing.he@kcl.ac.uk"><span style="font-size:15px;color:#1f618d" class="glyphicon glyphicon-envelope"></span></a> <a
                             href="https://www.shijinghe.net/"><span
                             style="font-size:15px;color:#1f618d"
                             class="glyphiconglyphicon-home"></span></a></a>
-                            </p>
 
                    
 <br><br>
