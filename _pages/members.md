@@ -116,7 +116,7 @@ Chenkai Ma is a PhD student in the Department of Informatics at King's College L
                     
 <div class="row">
     <div class="w-10">
-        {% include figure.liquid path="assets/roundPics/jcarlos.png" title="Shijing He" class="img-fluid z-depth-1 rounded-circle" %}
+        {% include figure.liquid path="assets/roundPics/shijinghe.png" title="Shijing He" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col align-self-center">
         <h5><strong>Shijing He</strong></h5>
