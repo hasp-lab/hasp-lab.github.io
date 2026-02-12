@@ -78,9 +78,11 @@ Dr Hana Kopecka is interested in the intersection of artificial intelligence and
         {% include figure.liquid path="assets/roundPics/MRJ.png" title="Rongjun Ma" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
         <div class="col-8 col-sm-10 align-self-center">
-        <h5><strong> Rongjun Ma</a></strong></h5>
+        <h5><strong> Rongjun Ma</strong></h5>
     </div>
 </div>
+
+Dr. Rongjun Ma is a researcher in usable security and privacy in everyday interactions with AI systems. With a background in HCI, she studies how people interpret, adapt to, and reshape emerging technologies in practice. Her work examines how AI systems are appropriated across contexts, how they reconfigure user roles and agency, and how design can better support secure and privacy-aware use. She completed her PhD at Aalto University, where her dissertation investigated everyday technology appropriation and its design implications.
 
 <br><br>
 
@@ -268,13 +270,6 @@ Shijing He is a Ph.D. student in Computer Science at King’s College London (KC
 ## Visitors
 ---
 
-<div class="row">
-    <div class="col-4 col-sm-2">
-        {% include figure.liquid path="assets/roundPics/MRJ.png" title="Rongjun Ma" class="img-fluid z-depth-1 rounded-circle" %}
-    </div>
-        <div class="col-8 col-sm-10 align-self-center">
-        <h5><strong><a href="https://scholar.google.com/citations?user=tet7Qy0AAAAJ&hl=en&oi=ao"> Rongjun Ma</a></strong></h5>
-    </div>
-</div>
+
 
   
