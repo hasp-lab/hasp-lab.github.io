@@ -59,7 +59,7 @@ ninja.data = [{
             window.location.href = "/blog/2026/AIromance/";
           
         },
-      },{id: "news-when-llms-turn-malicious-how-ai-can-trick-people-into-revealing-personal-data",
+      },{id: "news-when-llms-turn-malicious-how-ai-can-trick-people-into-revealing-personal-data-paper-at-usenix-security-2025",
           title: 'When LLMs Turn Malicious: How AI Can Trick People Into Revealing Personal Data...',
           description: "",
           section: "News",},{id: "news-paper-accepted-at-ieee-s-amp-amp-p-2026-he-et-al-2026",
