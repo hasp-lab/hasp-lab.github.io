@@ -12,12 +12,10 @@ nav_order: 4
 ---
 
 <div class="row">
-    <div class="col">
+    <div class="w-10">
         {% include figure.liquid path="assets/img/jsuch.jpg" title="jose such" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-    <div class="col-11">
-        <h3><strong>Jose Such, Head</strong></h3>
-    </div>
+    
 </div>
 
 
