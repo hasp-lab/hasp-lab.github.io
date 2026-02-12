@@ -39,10 +39,10 @@ Dr Gonzalo Gabriel M&eacute;ndez works at the intersection of Human-Computer Int
 
 
 <div class="row">
-    <div class="col-2">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/xzhan.png" title="xiao" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col-10 align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong>Xiao Zhan</strong></h5>
     </div>
 </div>
