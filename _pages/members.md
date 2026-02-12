@@ -134,22 +134,20 @@ Shijing He is a Ph.D. student in Computer Science at King’s College London (KC
 ## Previous Postdoctoral Researchers
 ---
                  
-                    
-                    <h5><img src="assets/roundPics/tvannuenen.png" alt="Tom van Nuenen" height="80" width=auto style="vertical-align:middle">
+<h5><img src="assets/roundPics/tvannuenen.png" alt="Tom van Nuenen" height="80" width=auto style="vertical-align:middle">
                         <a href="https://scholar.google.com/citations?user=Bsq-uDoAAAAJ">Dr Tom van Nuenen</a></h5>
                    
-                    <h5><img src="assets/roundPics/xferreraran.png" alt="Xavier Ferrer Aran" height="80" width=auto style="vertical-align:middle">
+<h5><img src="assets/roundPics/xferreraran.png" alt="Xavier Ferrer Aran" height="80" width=auto style="vertical-align:middle">
                         <a href="https://scholar.google.com/citations?user=JNbrvqAAAAAJ">Dr Xavier Ferrer-Aran</a></h5>
                     
-
-                    <h5><img src="assets/roundPics/ssarkadi.png" alt="Stefan Sarkadi" height="80" width=auto style="vertical-align:middle">
+<h5><img src="assets/roundPics/ssarkadi.png" alt="Stefan Sarkadi" height="80" width=auto style="vertical-align:middle">
                         <a href="https://www.stefansarkadi.com/">Dr Stefan Sarkadi</a></h5>
                     
-                    <h5><img src="assets/roundPics/asingh.png" alt="Ashwini Kumar" height="80" width=auto style="vertical-align:middle">
+<h5><img src="assets/roundPics/asingh.png" alt="Ashwini Kumar" height="80" width=auto style="vertical-align:middle">
                         <a href="https://scholar.google.com/citations?user=4J0gFtEAAAAJ&hl">Dr Ashwini Kumar Singh</a></h5>
 
                     
-                    <h5><img src="assets/roundPics/mbispham.png" alt="Mary K. Bispham" height="80" width=auto style="vertical-align:middle">
+<h5><img src="assets/roundPics/mbispham.png" alt="Mary K. Bispham" height="80" width=auto style="vertical-align:middle">
                         <a href="https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=mary+bispham&btnG=">Dr Mary Bispham</a></h5>
                             
 <br><br>
@@ -158,10 +156,10 @@ Shijing He is a Ph.D. student in Computer Science at King’s College London (KC
 ---
                 
         
-                                        <h5><i style="font-size:70px" class="fa fa-user-circle fa-10x" aria-hidden="true"></i> <a href="https://scholar.google.com/citations?user=efZF-zMAAAAJ&hl=en">Dr Eman Alhelali</a></h5>
-                                        <h5><img src="assets/img/roundPics/vahid-round.png" alt="Vahid" height="80" width=auto style="vertical-align:middle"> 
+<h5><i style="font-size:70px" class="fa fa-user-circle fa-10x" aria-hidden="true"></i> <a href="https://scholar.google.com/citations?user=efZF-zMAAAAJ&hl=en">Dr Eman Alhelali</a></h5>
+<h5><img src="assets/roundPics/vahid-round.png" alt="Vahid" height="80" width=auto style="vertical-align:middle"> 
                         <a href="https://scholar.google.com/citations?user=RnPFjYcAAAAJ&hl=en"> Dr Vahid Ghafouri</a></h5>
-                    <h5><img src="assets/img/roundPics/xzhan.png" alt="Xiao Zhan" height="80" width=auto style="vertical-align:middle"> 
+                        <h5><img src="assets/img/roundPics/xzhan.png" alt="Xiao Zhan" height="80" width=auto style="vertical-align:middle"> 
                         <a href="https://scholar.google.com/citations?user=7ABKabcAAAAJ&hl=en"> Dr Xiao Zhan</a></h5>
                     <h5><img src="assets/img/roundPics/arashid.png" alt="Aqib Rashid" height="80" width=auto style="vertical-align:middle"> 
                         <a href="https://scholar.google.com/citations?user=pc1ofzcAAAAJ"> Dr Aqib Rashid</a></h5>
@@ -183,11 +181,4 @@ Shijing He is a Ph.D. student in Computer Science at King’s College London (KC
             <br>
             <h5><img src="assets/img/roundPics/MRJ.png" alt="Rongjun Ma, PhD Student" height="80" width=auto style="vertical-align:middle"> 
                         <a href="https://scholar.google.com/citations?user=tet7Qy0AAAAJ&hl=en&oi=ao"> Rongjun Ma, PhD Student </a></h5>
-            <br>
-                    <br>
-                    <br>
-
-
-                </div><!-- / -->
-            </div><!-- /row -->
-        </div>
+  
