@@ -14,10 +14,10 @@ nav_order: 4
 ---
 
 <div class="row">
-    <div class="col-2">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/jsuch.png" title="jose such" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col-10 align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong>Jose Such, Head</strong></h5>
     </div>
 </div>
@@ -27,10 +27,10 @@ Prof Jose Such is Research Professor at the Spanish National Research Council (C
                 
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/gonzalo.png" title="gonzalo" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong>Gonzalo Gabriel M&eacute;ndez</strong></h5>
     </div>
 </div>
@@ -51,10 +51,10 @@ Dr Xiao Zhan is a postdoctoral researcher working on addressing safety, security
 
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/cmaidhof.png" title="caterina" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong>Caterina Maidhof</strong></h5>
     </div>
 </div>
@@ -63,10 +63,10 @@ Dr Caterina Maidhof is interested in how humans make privacy and security trade-
                 
                  
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/hkopecka.png" title="hana" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong>Hana Kopecka</strong></h5>
     </div>
 </div>
@@ -80,10 +80,10 @@ Dr Hana Kopecka is interested in the intersection of artificial intelligence and
 --- 
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/ikaleva.png" title="Ina" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong>Ina Kaleva</strong></h5>
     </div>
 </div>
@@ -92,10 +92,10 @@ Dr Hana Kopecka is interested in the intersection of artificial intelligence and
 Ina Kaleva is PhD student at King's College London, where she explores users' views on and experiences with generative AI tools by specific user groups, including women's use of GenAI for femhealth and general use of GenAI by children and adolescents. She holds an MSc degree in Mental Health Studies at King's College London and has a background in digital mental health. 
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/jcarlos.png" title="Juan Carlos" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong>Juan Carlos Carrillo</strong></h5>
     </div>
 </div>
@@ -103,10 +103,10 @@ Ina Kaleva is PhD student at King's College London, where she explores users' vi
 As a PhD candidate at Universidad Politécnica de Valencia, Juan Carlos specializes in the trustworthiness and privacy of Large Language Models (LLMs). His academic career includes a significant project during his master's degree in cybersecurity and cyberintelligence, where he developed a system to analyze echo chambers among Spanish congress members on Twitter. His current research is dedicated to advancing the security and privacy features of LLMs. <a href="mailto:juaca10j@upv.es"><span style="font-size:15px;color:#1f618d" class="glyphicon glyphicon-envelope"></span></a> <a href="https://www.juancarloscarrillo.tech/"><span style="font-size:15px;color:#1f618d" class="glyphiconglyphicon-home"></span></a></a>
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/chenkaima.png" title="Chenkai Ma" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong>Chenkai Ma</strong></h5>
     </div>
 </div>
@@ -115,10 +115,10 @@ Chenkai Ma is a PhD student in the Department of Informatics at King's College L
                  
                     
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/shijinghe.png" title="Shijing He" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong>Shijing He</strong></h5>
     </div>
 </div>
@@ -135,37 +135,37 @@ Shijing He is a Ph.D. student in Computer Science at King’s College London (KC
 ---
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/tvannuenen.png" title="Tom van Nuenen" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong><a href="https://scholar.google.com/citations?user=Bsq-uDoAAAAJ">Dr Tom van Nuenen</a></strong></h5>
     </div>
 </div>
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/xferreraran.png" title="Xavier Ferrer" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong><a href="https://scholar.google.com/citations?user=JNbrvqAAAAAJ">Dr Xavier Ferrer-Aran</a></strong></h5>
     </div>
 </div>
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/ssarkadi.png" title="Stefan Sarkadi" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong><a href="https://www.stefansarkadi.com/">Dr Stefan Sarkadi</a></strong></h5>
     </div>
 </div>
                
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/asingh.png" title="Ashwini Kumar" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong><a href="https://scholar.google.com/citations?user=4J0gFtEAAAAJ&hl">Dr Ashwini Kumar Singh</a></strong></h5>
     </div>
 </div>
@@ -173,10 +173,10 @@ Shijing He is a Ph.D. student in Computer Science at King’s College London (KC
             
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/mbispham.png" title="Mary K. Bispham" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong><a href="https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=mary+bispham&btnG=">Dr Mary Bispham</a></strong></h5>
     </div>
 </div>
@@ -193,55 +193,55 @@ Shijing He is a Ph.D. student in Computer Science at King’s College London (KC
 <h5><i style="font-size:70px" class="fa fa-user-circle fa-10x" aria-hidden="true"></i> <a href="https://scholar.google.com/citations?user=efZF-zMAAAAJ&hl=en">Dr Eman Alhelali</a></h5>
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/vahid-round.png" title="Vahid" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong><a href="https://scholar.google.com/citations?user=RnPFjYcAAAAJ&hl=en"> Dr Vahid Ghafouri</a></strong></h5>
     </div>
 </div>
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/xzhan.png" title="Xiao" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong><a href="https://scholar.google.com/citations?user=7ABKabcAAAAJ&hl=en"> Dr Xiao Zhan</a></strong></h5>
     </div>
 </div>
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/arashid.png" title="Aqib Rashid" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong><a href="https://scholar.google.com/citations?user=pc1ofzcAAAAJ"> Dr Aqib Rashid</a></strong></h5>
     </div>
 </div>
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/nabdi.png" title="Noura Abdi" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong><a href="https://scholar.google.com/citations?user=FaLAkQcAAAAJ">Dr Noura Abdi </a></strong></h5>
     </div>
 </div>
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/jedu.png" title="Jide Edu" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong><a href="https://scholar.google.com/citations?user=5iNjZqsAAAAJ">Dr Jide Edu</a></strong></h5>
     </div>
 </div>
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/fmosca.png" title="Francesca Mosca" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong><a href="https://scholar.google.com/citations?user=AUWNJhEAAAAJ">Dr Francesca Mosca</a></strong></h5>
     </div>
 </div>
@@ -260,10 +260,10 @@ Shijing He is a Ph.D. student in Computer Science at King’s College London (KC
 ---
 
 <div class="row">
-    <div class="w-10">
+    <div class="col-4 col-sm-2">
         {% include figure.liquid path="assets/roundPics/MRJ.png" title="Rongjun Ma" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-        <div class="col align-self-center">
+        <div class="col-8 col-sm-10 align-self-center">
         <h5><strong><a href="https://scholar.google.com/citations?user=tet7Qy0AAAAJ&hl=en&oi=ao"> Rongjun Ma</a></strong></h5>
     </div>
 </div>
