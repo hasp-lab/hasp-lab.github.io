@@ -15,11 +15,12 @@ nav_order: 4
     <div class="w-10">
         {% include figure.liquid path="assets/img/jsuch.jpg" title="jose such" class="img-fluid z-depth-1 rounded-circle" %}
     </div>
-    
+        <div class="col">
+        <h3><strong>Jose Such, Head</strong></h3>
+    </div>
 </div>
 
 
-#### **Jose Such, Head**
 
 Jose Such is Professor in the
                     Department of Informatics at
