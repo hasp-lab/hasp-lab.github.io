@@ -127,6 +127,17 @@ Shijing He is a Ph.D. student in Computer Science at King’s College London (KC
                             href="https://www.shijinghe.net/"><span
                             style="font-size:15px;color:#1f618d"
                             class="glyphiconglyphicon-home"></span></a></a>
+                            
+<div class="row">
+    <div class="col-4 col-sm-2">
+        {% include figure.liquid path="assets/roundPics/diego.png" title="Diego" class="img-fluid z-depth-1 rounded-circle" %}
+    </div>
+        <div class="col-8 col-sm-10 align-self-center">
+        <h5><strong>Diego Paracuellos</strong></h5>
+    </div>
+</div>
+
+Diego Paracuellos de los Santos is a Ph.D. candidate with an academic background in telecommunications, electronics, and cybersecurity. His research aims toward the advancement of "privacy as default" systems in machine-human/machine interactions.
 
                    
 <br><br>
