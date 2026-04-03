@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-11'
+  last_updated: '2026-04-03'
 papers:
   xNr_IMUAAAAJ:-38epGy1wY0C:
     citations: 6
@@ -14,7 +14,7 @@ papers:
     title: Moral uncertainty and the problem of fanaticism
     year: '2024'
   xNr_IMUAAAAJ:0EnyYjriUFMC:
-    citations: 112
+    citations: 113
     title: A Survey of Privacy in Multi-agent Systems
     year: '2014'
   xNr_IMUAAAAJ:17ZO-CJnx_8C:
@@ -50,7 +50,7 @@ papers:
     title: '" My Best Friend''s Husband Sees and Knows Everything": A Cross-Contextual and Cross-Country Approach to Understanding Smart Home Privacy'
     year: '2024'
   xNr_IMUAAAAJ:3BvdIg-l-ZAC:
-    citations: 53
+    citations: 54
     title: Transparency for whom? Assessing discriminatory artificial intelligence
     year: '2020'
   xNr_IMUAAAAJ:3MwzVuqRcA0C:
@@ -70,7 +70,7 @@ papers:
     title: A scalable multiagent platform for large systems
     year: '2013'
   xNr_IMUAAAAJ:4E1Y8I9HL1wC:
-    citations: 25
+    citations: 26
     title: 'Legal obligation and ethical best practice: Towards meaningful verbal consent for voice assistants'
     year: '2023'
   xNr_IMUAAAAJ:4JMBOYKVnBMC:
@@ -90,7 +90,7 @@ papers:
     title: Extended Abstract of Privacy-enhanced AI Assistants based on Dialogues and Case Similarity
     year: '2024'
   xNr_IMUAAAAJ:5LPo_wSKItgC:
-    citations: 507
+    citations: 517
     title: 'Bias and discrimination in AI: a cross-disciplinary perspective'
     year: '2021'
   xNr_IMUAAAAJ:5nxA0vEk-isC:
@@ -126,7 +126,7 @@ papers:
     title: 'Proceedings of The Third International Workshop on Iinfraestructures and tools for multiagent systems: ITMAS 2012'
     year: '2012'
   xNr_IMUAAAAJ:9VeumLvkZSQC:
-    citations: 5
+    citations: 7
     title: Transformer-Based Quantification of the Echo Chamber Effect in Online Communities
     year: '2024'
   xNr_IMUAAAAJ:9tXw7Op4-u0C:
@@ -138,7 +138,7 @@ papers:
     title: Kerberos-based secure multiagent platform
     year: '2008'
   xNr_IMUAAAAJ:BFa5h04uPMwC:
-    citations: 85
+    citations: 93
     title: 'Building better ai agents: A provocation on the utilisation of persona in llm-based conversational agents'
     year: '2024'
   xNr_IMUAAAAJ:CCeGMaHljPEC:
@@ -154,7 +154,7 @@ papers:
     title: Is my program sexist? Using Norms to Attest Digital Discrimination
     year: '2020'
   xNr_IMUAAAAJ:Cvh0bltMcLgC:
-    citations: 17
+    citations: 18
     title: 'StratDef: Strategic defense against adversarial attacks in ML-based malware detection'
     year: '2023'
   xNr_IMUAAAAJ:DGzKIA18-3YC:
@@ -162,11 +162,11 @@ papers:
     title: A model for governing information sharing in smart assistants
     year: '2022'
   xNr_IMUAAAAJ:DIubQTN3OvUC:
-    citations: 34
+    citations: 35
     title: Understanding security requirements for industrial control system supply chains
     year: '2019'
   xNr_IMUAAAAJ:DPO9WFcz7UcC:
-    citations: 0
+    citations: 1
     title: 'The Governance of Intimacy: A Preliminary Policy Analysis of Romantic AI Platforms'
     year: '2026'
   xNr_IMUAAAAJ:E8ajGqO0XoUC:
@@ -178,7 +178,7 @@ papers:
     title: Composite vulnerabilities in Cyber Physical Systems
     year: '2016'
   xNr_IMUAAAAJ:Ei5r6KrKXVQC:
-    citations: 14
+    citations: 15
     title: 'Not so fair: The impact of presumably fair machine learning models'
     year: '2023'
   xNr_IMUAAAAJ:EsrhoZGmrkoC:
@@ -190,11 +190,11 @@ papers:
     title: Exploring the privacy and security challenges faced by migrant domestic workers in chinese smart homes
     year: '2025'
   xNr_IMUAAAAJ:GJVTs2krol4C:
-    citations: 23
+    citations: 24
     title: 'Truth or dare: Understanding and predicting how users lie and provide untruthful data online'
     year: '2021'
   xNr_IMUAAAAJ:GUYAmugLYisC:
-    citations: 409
+    citations: 414
     title: Privacy norms for smart home personal assistants
     year: '2021'
   xNr_IMUAAAAJ:GiYFt9mpioMC:
@@ -214,7 +214,7 @@ papers:
     title: 'Sharing policies in multiuser privacy scenarios: Incorporating context, preferences, and arguments in decision making'
     year: '2017'
   xNr_IMUAAAAJ:I-2NeQpV75MC:
-    citations: 70
+    citations: 71
     title: 'Healthcare voice AI assistants: factors influencing trust and intention to use'
     year: '2024'
   xNr_IMUAAAAJ:IExZWSxeYXUC:
@@ -222,7 +222,7 @@ papers:
     title: 'Towards safer chatbots: A framework for policy compliance evaluation of custom gpts'
     year: '2025'
   xNr_IMUAAAAJ:IHkkN1K1AlAC:
-    citations: 54
+    citations: 55
     title: 'ELVIRA: an Explainable Agent for Value and Utility-driven Multiuser Privacy'
     year: '2021'
   xNr_IMUAAAAJ:IT1MJ6E3JesC:
@@ -263,8 +263,8 @@ papers:
     year: Unknown Year
   xNr_IMUAAAAJ:JqN3CTdJtl0C:
     citations: 0
-    title: PRIVACY AND SAFETY EXPERIENCES AND CONCERNS OF US WOMEN USING GENERATIVE AI FOR SEEKING SEXUAL AND REPRODUCTIVE HEALTH INFORMATION
-    year: Unknown Year
+    title: Privacy and Safety Experiences and Concerns of US Women Using Generative AI for Seeking Sexual and Reproductive Health Information
+    year: '2026'
   xNr_IMUAAAAJ:K4-iKlO5MD4C:
     citations: 10
     title: 'Tie and tag: A study of tie strength and tags for photo sharing'
@@ -274,11 +274,11 @@ papers:
     title: "Experiencias con una T\xE9cnica de Aprendizaje Activo basada en Retroalimentaci\xF3n Instant\xE1nea y An\xF3nima"
     year: '2012'
   xNr_IMUAAAAJ:KqnX2w3egDsC:
-    citations: 23
+    citations: 24
     title: Ignorance is bliss? The effect of explanations on perceptions of voice assistants
     year: '2023'
   xNr_IMUAAAAJ:L7vk9XBBNxgC:
-    citations: 44
+    citations: 45
     title: Exploring the security and privacy risks of chatbots in messaging services
     year: '2022'
   xNr_IMUAAAAJ:L8Ckcad2t8MC:
@@ -302,11 +302,11 @@ papers:
     title: Strategic pseudonym change in agent-based e-commerce.
     year: '2012'
   xNr_IMUAAAAJ:Mx5hWS9ctUkC:
-    citations: 6
+    citations: 7
     title: Grand Challenges in Human-Centered Privacy
     year: '2025'
   xNr_IMUAAAAJ:N6_Y7JlWxwsC:
-    citations: 285
+    citations: 291
     title: 'Smart Home Personal Assistants: A Security and Privacy Review'
     year: '2020'
   xNr_IMUAAAAJ:NU-BerS4NX4C:
@@ -314,7 +314,7 @@ papers:
     title: 'Agent EXPRI: Licence to explain'
     year: '2020'
   xNr_IMUAAAAJ:NnTm98qLMbgC:
-    citations: 5
+    citations: 7
     title: Why are conversational assistants still black boxes? The case for transparency
     year: '2023'
   xNr_IMUAAAAJ:NtGNdKbuCngC:
@@ -326,7 +326,7 @@ papers:
     title: 'Pacman: Personal agent for access control in social media'
     year: '2017'
   xNr_IMUAAAAJ:Oj-SLI0tZTcC:
-    citations: 13
+    citations: 14
     title: 'CASE-Bench: Context-Aware SafEty Benchmark for Large Language Models'
     year: '2025'
   xNr_IMUAAAAJ:PVqtIyvKoSUC:
@@ -358,7 +358,7 @@ papers:
     title: Supporting Dynamicity in Emergency Response Applications
     year: '2014'
   xNr_IMUAAAAJ:RVqaWcrwK10C:
-    citations: 15
+    citations: 18
     title: 'Bystander Privacy in Smart Homes: A Systematic Review of Concerns and Solutions'
     year: '2025'
   xNr_IMUAAAAJ:S2WlVNSe3u4C:
@@ -410,7 +410,7 @@ papers:
     title: 'Malprotect: Stateful defense against adversarial query attacks in ml-based malware detection'
     year: '2023'
   xNr_IMUAAAAJ:VjBpw8Hezy4C:
-    citations: 24
+    citations: 25
     title: Intersectional experiences of unfair treatment caused by automated computational systems
     year: '2022'
   xNr_IMUAAAAJ:VnuxuLaQPLMC:
@@ -530,7 +530,7 @@ papers:
     title: Strategies for avoiding preference profiling in agent-based e-commerce environments
     year: '2014'
   xNr_IMUAAAAJ:dhpJJ7xvgBgC:
-    citations: 7
+    citations: 9
     title: Cross-partisan interactions on twitter
     year: '2025'
   xNr_IMUAAAAJ:e5wmG9Sq2KIC:
@@ -538,7 +538,7 @@ papers:
     title: An Active Learning Technique Enhanced with Electronic Polls
     year: '2015'
   xNr_IMUAAAAJ:e9bUPLv0EjcC:
-    citations: 2
+    citations: 5
     title: 'Privacy in Human-AI Romantic Relationships: Concerns, Boundaries, and Agency'
     year: '2026'
   xNr_IMUAAAAJ:eQOLeE2rZwMC:
@@ -578,7 +578,7 @@ papers:
     title: 'Accord: Constraint-driven mediation of multi-user conflicts in cloud services'
     year: '2024'
   xNr_IMUAAAAJ:hC7cP41nSMkC:
-    citations: 138
+    citations: 139
     title: Privacy policy negotiation in social media
     year: '2016'
   xNr_IMUAAAAJ:hFOr9nPyWt4C:
@@ -586,7 +586,7 @@ papers:
     title: Seguridad en sistemas multiagente
     year: '2011'
   xNr_IMUAAAAJ:hKjooKYXoHIC:
-    citations: 9
+    citations: 11
     title: Attesting digital discrimination using norms
     year: '2021'
   xNr_IMUAAAAJ:hfzGNhXhx5MC:
@@ -618,11 +618,11 @@ papers:
     title: 'All that glitters is not gold: on the effectiveness of cyber security qualifications'
     year: '2017'
   xNr_IMUAAAAJ:jKT558fuBk8C:
-    citations: 12
+    citations: 13
     title: Preferences for AI explanations based on cognitive style and socio-cultural factors
     year: '2024'
   xNr_IMUAAAAJ:jRIwE-1ttnoC:
-    citations: 12
+    citations: 13
     title: Differences in the toxic language of cross-platform communities
     year: '2024'
   xNr_IMUAAAAJ:jq04SsiGh3QC:
@@ -662,7 +662,7 @@ papers:
     title: '" Living-Alone Girls'' Lives Matter": Exploring the Security and Safety Perceptions and Practices of Young Women Living Alone in China'
     year: '2025'
   xNr_IMUAAAAJ:oYLFIHfuHKwC:
-    citations: 136
+    citations: 137
     title: Multiparty privacy in social media
     year: '2018'
   xNr_IMUAAAAJ:oYwriLWYh5YC:
@@ -670,7 +670,7 @@ papers:
     title: '" Create an environment that protects women, rather than selling anxiety!": Participatory Threat Modeling with Chinese Young Women Living Alone'
     year: '2026'
   xNr_IMUAAAAJ:oldoQiaHq2UC:
-    citations: 81
+    citations: 82
     title: Discovering and categorising language biases in reddit
     year: '2021'
   xNr_IMUAAAAJ:oqD4_j7ulsYC:
@@ -749,6 +749,10 @@ papers:
     citations: 1
     title: A holistic indicator of polarization to measure online sexism
     year: '2024'
+  xNr_IMUAAAAJ:uQVPmWFBlwUC:
+    citations: 0
+    title: Decentralized Value Systems Agreements
+    year: '2026'
   xNr_IMUAAAAJ:uWy0R8PweswC:
     citations: 0
     title: 'From Cloud Deletion and the Information They Need: A Participatory Action Study. ACM Transactions on Privacy and Security.'
@@ -762,7 +766,7 @@ papers:
     title: Self-disclosure decision making based on intimacy and privacy
     year: '2012'
   xNr_IMUAAAAJ:ujxm2eEBZHIC:
-    citations: 53
+    citations: 54
     title: Automated GDPR compliance assessment for cross-border personal data transfers in android applications
     year: '2023'
   xNr_IMUAAAAJ:vjZqxyZ7hS4C:
@@ -782,11 +786,11 @@ papers:
     title: 'The security of smart buildings: a systematic literature review'
     year: '2019'
   xNr_IMUAAAAJ:wlzmIqt2EaEC:
-    citations: 11
+    citations: 13
     title: Malicious LLM-Based Conversational AI Makes Users Reveal Personal Information
     year: '2025'
   xNr_IMUAAAAJ:wuD5JclIwkYC:
-    citations: 75
+    citations: 76
     title: The magazine archive includes every article published in Communications of the ACM for over the past 50 years.
     year: '2017'
   xNr_IMUAAAAJ:x2hKVfJWtf0C:
@@ -806,7 +810,7 @@ papers:
     title: Intelligent Cybersecurity Agents
     year: '2016'
   xNr_IMUAAAAJ:yKzB5RS27GgC:
-    citations: 21
+    citations: 23
     title: Privacy perceptions of custom gpts by users and creators
     year: '2025'
   xNr_IMUAAAAJ:yZoBfgUKqwcC:
@@ -826,6 +830,6 @@ papers:
     title: Hacia el diseno de plataformas multiagente cercanas al sistema operativo
     year: '2007'
   xNr_IMUAAAAJ:zzCxg_vo7cAC:
-    citations: 95
+    citations: 97
     title: Digital discrimination
     year: '2019'
