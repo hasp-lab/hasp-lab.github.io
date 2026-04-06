@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-06'
 papers:
   xNr_IMUAAAAJ:-38epGy1wY0C:
     citations: 6
@@ -90,7 +90,7 @@ papers:
     title: Extended Abstract of Privacy-enhanced AI Assistants based on Dialogues and Case Similarity
     year: '2024'
   xNr_IMUAAAAJ:5LPo_wSKItgC:
-    citations: 517
+    citations: 518
     title: 'Bias and discrimination in AI: a cross-disciplinary perspective'
     year: '2021'
   xNr_IMUAAAAJ:5nxA0vEk-isC:
@@ -214,7 +214,7 @@ papers:
     title: 'Sharing policies in multiuser privacy scenarios: Incorporating context, preferences, and arguments in decision making'
     year: '2017'
   xNr_IMUAAAAJ:I-2NeQpV75MC:
-    citations: 71
+    citations: 73
     title: 'Healthcare voice AI assistants: factors influencing trust and intention to use'
     year: '2024'
   xNr_IMUAAAAJ:IExZWSxeYXUC:
@@ -274,7 +274,7 @@ papers:
     title: "Experiencias con una T\xE9cnica de Aprendizaje Activo basada en Retroalimentaci\xF3n Instant\xE1nea y An\xF3nima"
     year: '2012'
   xNr_IMUAAAAJ:KqnX2w3egDsC:
-    citations: 24
+    citations: 25
     title: Ignorance is bliss? The effect of explanations on perceptions of voice assistants
     year: '2023'
   xNr_IMUAAAAJ:L7vk9XBBNxgC:
@@ -606,7 +606,7 @@ papers:
     title: SECOND INTERNATIONAL WORKSHOP ON AGENTS AND CYBERSECURITY
     year: '2015'
   xNr_IMUAAAAJ:isC4tDSrTZIC:
-    citations: 14
+    citations: 15
     title: 'Cyber security controls effectiveness: a qualitative assessment of cyber essentials'
     year: '2015'
   xNr_IMUAAAAJ:j3f4tGmQtD8C:
@@ -766,7 +766,7 @@ papers:
     title: Self-disclosure decision making based on intimacy and privacy
     year: '2012'
   xNr_IMUAAAAJ:ujxm2eEBZHIC:
-    citations: 54
+    citations: 57
     title: Automated GDPR compliance assessment for cross-border personal data transfers in android applications
     year: '2023'
   xNr_IMUAAAAJ:vjZqxyZ7hS4C:
