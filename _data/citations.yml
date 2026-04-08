@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-08'
 papers:
   xNr_IMUAAAAJ:-38epGy1wY0C:
     citations: 6
@@ -410,7 +410,7 @@ papers:
     title: 'Malprotect: Stateful defense against adversarial query attacks in ml-based malware detection'
     year: '2023'
   xNr_IMUAAAAJ:VjBpw8Hezy4C:
-    citations: 25
+    citations: 26
     title: Intersectional experiences of unfair treatment caused by automated computational systems
     year: '2022'
   xNr_IMUAAAAJ:VnuxuLaQPLMC:
