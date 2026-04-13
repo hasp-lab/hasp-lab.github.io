@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-04-13'
 papers:
   xNr_IMUAAAAJ:-38epGy1wY0C:
     citations: 6
@@ -46,7 +46,7 @@ papers:
     title: Scalable and efficient multiagent platform closer to the operating system
     year: '2008'
   xNr_IMUAAAAJ:37Fl7vPTsUIC:
-    citations: 18
+    citations: 19
     title: '" My Best Friend''s Husband Sees and Knows Everything": A Cross-Contextual and Cross-Country Approach to Understanding Smart Home Privacy'
     year: '2024'
   xNr_IMUAAAAJ:3BvdIg-l-ZAC:
@@ -90,7 +90,7 @@ papers:
     title: Extended Abstract of Privacy-enhanced AI Assistants based on Dialogues and Case Similarity
     year: '2024'
   xNr_IMUAAAAJ:5LPo_wSKItgC:
-    citations: 518
+    citations: 517
     title: 'Bias and discrimination in AI: a cross-disciplinary perspective'
     year: '2021'
   xNr_IMUAAAAJ:5nxA0vEk-isC:
@@ -214,7 +214,7 @@ papers:
     title: 'Sharing policies in multiuser privacy scenarios: Incorporating context, preferences, and arguments in decision making'
     year: '2017'
   xNr_IMUAAAAJ:I-2NeQpV75MC:
-    citations: 73
+    citations: 75
     title: 'Healthcare voice AI assistants: factors influencing trust and intention to use'
     year: '2024'
   xNr_IMUAAAAJ:IExZWSxeYXUC:
@@ -306,7 +306,7 @@ papers:
     title: Grand Challenges in Human-Centered Privacy
     year: '2025'
   xNr_IMUAAAAJ:N6_Y7JlWxwsC:
-    citations: 291
+    citations: 292
     title: 'Smart Home Personal Assistants: A Security and Privacy Review'
     year: '2020'
   xNr_IMUAAAAJ:NU-BerS4NX4C:
@@ -358,7 +358,7 @@ papers:
     title: Supporting Dynamicity in Emergency Response Applications
     year: '2014'
   xNr_IMUAAAAJ:RVqaWcrwK10C:
-    citations: 18
+    citations: 17
     title: 'Bystander Privacy in Smart Homes: A Systematic Review of Concerns and Solutions'
     year: '2025'
   xNr_IMUAAAAJ:S2WlVNSe3u4C:
@@ -465,6 +465,10 @@ papers:
     citations: 0
     title: The Influence of Human-like Appearance on Expected Robot Explanations
     year: '2025'
+  xNr_IMUAAAAJ:_AkkBXT-jcoC:
+    citations: 1
+    title: Privacy-Enhanced AI Assistants Based on Dialogues and Case Similarity
+    year: '2023'
   xNr_IMUAAAAJ:_FxGoFyzp5QC:
     citations: 1
     title: Trust and reputation through partial identities
@@ -494,7 +498,7 @@ papers:
     title: Special Issue on Artificial Intelligence for Security and Privacy Introduction
     year: '2018'
   xNr_IMUAAAAJ:cOfwuRB03ygC:
-    citations: 48
+    citations: 49
     title: 'Ai in the gray: Exploring moderation policies in dialogic large language models vs. human answers in controversial topics'
     year: '2023'
   xNr_IMUAAAAJ:cRMvf6lLvU8C:
@@ -538,7 +542,7 @@ papers:
     title: An Active Learning Technique Enhanced with Electronic Polls
     year: '2015'
   xNr_IMUAAAAJ:e9bUPLv0EjcC:
-    citations: 5
+    citations: 6
     title: 'Privacy in Human-AI Romantic Relationships: Concerns, Boundaries, and Agency'
     year: '2026'
   xNr_IMUAAAAJ:eQOLeE2rZwMC:
@@ -618,7 +622,7 @@ papers:
     title: 'All that glitters is not gold: on the effectiveness of cyber security qualifications'
     year: '2017'
   xNr_IMUAAAAJ:jKT558fuBk8C:
-    citations: 13
+    citations: 15
     title: Preferences for AI explanations based on cognitive style and socio-cultural factors
     year: '2024'
   xNr_IMUAAAAJ:jRIwE-1ttnoC:
@@ -670,7 +674,7 @@ papers:
     title: '" Create an environment that protects women, rather than selling anxiety!": Participatory Threat Modeling with Chinese Young Women Living Alone'
     year: '2026'
   xNr_IMUAAAAJ:oldoQiaHq2UC:
-    citations: 82
+    citations: 83
     title: Discovering and categorising language biases in reddit
     year: '2021'
   xNr_IMUAAAAJ:oqD4_j7ulsYC:
@@ -766,7 +770,7 @@ papers:
     title: Self-disclosure decision making based on intimacy and privacy
     year: '2012'
   xNr_IMUAAAAJ:ujxm2eEBZHIC:
-    citations: 57
+    citations: 58
     title: Automated GDPR compliance assessment for cross-border personal data transfers in android applications
     year: '2023'
   xNr_IMUAAAAJ:vjZqxyZ7hS4C:
@@ -810,7 +814,7 @@ papers:
     title: Intelligent Cybersecurity Agents
     year: '2016'
   xNr_IMUAAAAJ:yKzB5RS27GgC:
-    citations: 23
+    citations: 25
     title: Privacy perceptions of custom gpts by users and creators
     year: '2025'
   xNr_IMUAAAAJ:yZoBfgUKqwcC:
