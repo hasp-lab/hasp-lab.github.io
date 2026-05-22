@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-05-22'
 papers:
   xNr_IMUAAAAJ:-38epGy1wY0C:
     citations: 6
@@ -198,7 +198,7 @@ papers:
     title: 'Truth or dare: Understanding and predicting how users lie and provide untruthful data online'
     year: '2021'
   xNr_IMUAAAAJ:GUYAmugLYisC:
-    citations: 423
+    citations: 424
     title: Privacy norms for smart home personal assistants
     year: '2021'
   xNr_IMUAAAAJ:GiYFt9mpioMC:
@@ -616,7 +616,7 @@ papers:
   xNr_IMUAAAAJ:hKjooKYXoHIC:
     citations: 11
     title: Attesting digital discrimination using norms
-    year: '2022'
+    year: '2021'
   xNr_IMUAAAAJ:hfzGNhXhx5MC:
     citations: 13
     title: A privacy assessment of social media aggregators
@@ -650,7 +650,7 @@ papers:
     title: Preferences for AI explanations based on cognitive style and socio-cultural factors
     year: '2024'
   xNr_IMUAAAAJ:jRIwE-1ttnoC:
-    citations: 14
+    citations: 15
     title: Differences in the toxic language of cross-platform communities
     year: '2024'
   xNr_IMUAAAAJ:jq04SsiGh3QC:
@@ -662,7 +662,7 @@ papers:
     title: 'Magentix: a multiagent platform integrated in linux'
     year: '2008'
   xNr_IMUAAAAJ:k_IJM867U9cC:
-    citations: 181
+    citations: 182
     title: Resolving Multi-party Privacy Conflicts in Social Media
     year: '2016'
   xNr_IMUAAAAJ:lK9BDNCuzFgC:
@@ -770,7 +770,7 @@ papers:
     title: Exploiting temporal locality in drowsy cache policies
     year: '2005'
   xNr_IMUAAAAJ:u5HHmVD_uO8C:
-    citations: 55
+    citations: 56
     title: Performance evaluation of open-source multiagent platforms
     year: '2006'
   xNr_IMUAAAAJ:uPCvBZYD9qUC:
@@ -810,7 +810,7 @@ papers:
     title: 'Assured deletion in the cloud: requirements, challenges and future directions'
     year: '2016'
   xNr_IMUAAAAJ:wBLCggQE-ToC:
-    citations: 99
+    citations: 100
     title: 'The security of smart buildings: a systematic literature review'
     year: '2019'
   xNr_IMUAAAAJ:wlzmIqt2EaEC:
