@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-12'
 papers:
   xNr_IMUAAAAJ:-38epGy1wY0C:
     citations: 6
@@ -10,7 +10,7 @@ papers:
     title: 'Agent EXPRI: Licence to Explain'
     year: '2020'
   xNr_IMUAAAAJ:-vzq6BoH5oUC:
-    citations: 3
+    citations: 4
     title: Moral uncertainty and the problem of fanaticism
     year: '2024'
   xNr_IMUAAAAJ:0EnyYjriUFMC:
@@ -90,7 +90,7 @@ papers:
     title: Extended Abstract of Privacy-enhanced AI Assistants based on Dialogues and Case Similarity
     year: '2024'
   xNr_IMUAAAAJ:5LPo_wSKItgC:
-    citations: 536
+    citations: 538
     title: 'Bias and discrimination in AI: a cross-disciplinary perspective'
     year: '2021'
   xNr_IMUAAAAJ:5nxA0vEk-isC:
@@ -154,7 +154,7 @@ papers:
     title: Is my program sexist? Using Norms to Attest Digital Discrimination
     year: '2020'
   xNr_IMUAAAAJ:Cvh0bltMcLgC:
-    citations: 19
+    citations: 20
     title: 'StratDef: Strategic defense against adversarial attacks in ML-based malware detection'
     year: '2023'
   xNr_IMUAAAAJ:DGzKIA18-3YC:
@@ -214,7 +214,7 @@ papers:
     title: 'Sharing policies in multiuser privacy scenarios: Incorporating context, preferences, and arguments in decision making'
     year: '2017'
   xNr_IMUAAAAJ:I-2NeQpV75MC:
-    citations: 83
+    citations: 84
     title: 'Healthcare voice AI assistants: factors influencing trust and intention to use'
     year: '2024'
   xNr_IMUAAAAJ:IExZWSxeYXUC:
@@ -222,7 +222,7 @@ papers:
     title: 'Towards safer chatbots: A framework for policy compliance evaluation of custom gpts'
     year: '2025'
   xNr_IMUAAAAJ:IHkkN1K1AlAC:
-    citations: 57
+    citations: 58
     title: 'ELVIRA: an Explainable Agent for Value and Utility-driven Multiuser Privacy'
     year: '2021'
   xNr_IMUAAAAJ:IT1MJ6E3JesC:
@@ -378,7 +378,7 @@ papers:
     title: Privacy and self-disclosure in multiagent systems
     year: '2011'
   xNr_IMUAAAAJ:SrKkpNFED5gC:
-    citations: 55
+    citations: 57
     title: 'Information assurance techniques: Perceived cost effectiveness'
     year: '2016'
   xNr_IMUAAAAJ:T8_be82Iz5gC:
@@ -394,7 +394,7 @@ papers:
     title: Implicit Contextual Integrity in Online Social Networks
     year: '2015'
   xNr_IMUAAAAJ:TeJ9juy8vcMC:
-    citations: 5
+    citations: 6
     title: Multiuser privacy and security conflicts in the cloud
     year: '2023'
   xNr_IMUAAAAJ:Tyk-4Ss8FVUC:
@@ -414,7 +414,7 @@ papers:
     title: Beliefs and Misconceptions around Integrated Conversational AI
     year: '2026'
   xNr_IMUAAAAJ:UeHWp8X0CEIC:
-    citations: 31
+    citations: 30
     title: Towards dynamic agent interaction support in open multiagent systems
     year: '2010'
   xNr_IMUAAAAJ:Ul_CLA4dPeMC:
@@ -426,7 +426,7 @@ papers:
     title: Intersectional experiences of unfair treatment caused by automated computational systems
     year: '2022'
   xNr_IMUAAAAJ:VnuxuLaQPLMC:
-    citations: 19
+    citations: 20
     title: Towards a value-driven explainable agent for collective privacy
     year: '2020'
   xNr_IMUAAAAJ:Vztgr1qGG8IC:
@@ -450,7 +450,7 @@ papers:
     title: A normative approach to attest digital discrimination
     year: '2020'
   xNr_IMUAAAAJ:Y0pCki6q_DkC:
-    citations: 52
+    citations: 51
     title: Partial identities as a foundation for trust and reputation
     year: '2011'
   xNr_IMUAAAAJ:YGhAHpnIhDoC:
@@ -602,7 +602,7 @@ papers:
     title: 'Accord: Constraint-driven mediation of multi-user conflicts in cloud services'
     year: '2024'
   xNr_IMUAAAAJ:hC7cP41nSMkC:
-    citations: 138
+    citations: 139
     title: Privacy policy negotiation in social media
     year: '2016'
   xNr_IMUAAAAJ:hFOr9nPyWt4C:
@@ -658,7 +658,7 @@ papers:
     title: 'Magentix: a multiagent platform integrated in linux'
     year: '2008'
   xNr_IMUAAAAJ:k_IJM867U9cC:
-    citations: 183
+    citations: 184
     title: Resolving Multi-party Privacy Conflicts in Social Media
     year: '2016'
   xNr_IMUAAAAJ:lK9BDNCuzFgC:
@@ -686,7 +686,7 @@ papers:
     title: '" Living-Alone Girls'' Lives Matter": Exploring the Security and Safety Perceptions and Practices of Young Women Living Alone in China'
     year: '2025'
   xNr_IMUAAAAJ:oYLFIHfuHKwC:
-    citations: 139
+    citations: 140
     title: Multiparty privacy in social media
     year: '2018'
   xNr_IMUAAAAJ:oYwriLWYh5YC:
@@ -854,6 +854,6 @@ papers:
     title: Hacia el diseno de plataformas multiagente cercanas al sistema operativo
     year: '2007'
   xNr_IMUAAAAJ:zzCxg_vo7cAC:
-    citations: 99
+    citations: 100
     title: Digital discrimination
     year: '2019'
