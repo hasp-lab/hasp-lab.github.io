@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-06-24'
 papers:
   xNr_IMUAAAAJ:-38epGy1wY0C:
     citations: 6
@@ -14,11 +14,11 @@ papers:
     title: Moral uncertainty and the problem of fanaticism
     year: '2024'
   xNr_IMUAAAAJ:0EnyYjriUFMC:
-    citations: 116
+    citations: 117
     title: A Survey of Privacy in Multi-agent Systems
     year: '2014'
   xNr_IMUAAAAJ:17ZO-CJnx_8C:
-    citations: 41
+    citations: 42
     title: An ultimatum game model for the evolution of privacy in jointly managed content
     year: '2017'
   xNr_IMUAAAAJ:1Aeql8wG3wEC:
@@ -46,7 +46,7 @@ papers:
     title: Scalable and efficient multiagent platform closer to the operating system
     year: '2008'
   xNr_IMUAAAAJ:37Fl7vPTsUIC:
-    citations: 20
+    citations: 21
     title: '" My Best Friend''s Husband Sees and Knows Everything": A Cross-Contextual and Cross-Country Approach to Understanding Smart Home Privacy'
     year: '2024'
   xNr_IMUAAAAJ:3BvdIg-l-ZAC:
@@ -70,7 +70,7 @@ papers:
     title: A scalable multiagent platform for large systems
     year: '2013'
   xNr_IMUAAAAJ:4E1Y8I9HL1wC:
-    citations: 29
+    citations: 30
     title: 'Legal obligation and ethical best practice: Towards meaningful verbal consent for voice assistants'
     year: '2023'
   xNr_IMUAAAAJ:4JMBOYKVnBMC:
@@ -90,7 +90,7 @@ papers:
     title: Extended Abstract of Privacy-enhanced AI Assistants based on Dialogues and Case Similarity
     year: '2024'
   xNr_IMUAAAAJ:5LPo_wSKItgC:
-    citations: 547
+    citations: 551
     title: 'Bias and discrimination in AI: a cross-disciplinary perspective'
     year: '2021'
   xNr_IMUAAAAJ:5nxA0vEk-isC:
@@ -98,7 +98,7 @@ papers:
     title: Towards a secure, group-oriented and efficient framework for intelligent virtual environments
     year: '2009'
   xNr_IMUAAAAJ:5rMqqAh47xYC:
-    citations: 11
+    citations: 12
     title: Can you meaningfully consent in eight seconds? Identifying Ethical Issues with Verbal Consent for Voice Assistants
     year: '2022'
   xNr_IMUAAAAJ:6pF0wJmtdfAC:
@@ -138,7 +138,7 @@ papers:
     title: Kerberos-based secure multiagent platform
     year: '2008'
   xNr_IMUAAAAJ:BFa5h04uPMwC:
-    citations: 111
+    citations: 112
     title: 'Building better ai agents: A provocation on the utilisation of persona in llm-based conversational agents'
     year: '2024'
   xNr_IMUAAAAJ:CCeGMaHljPEC:
@@ -146,7 +146,7 @@ papers:
     title: "Framework basado en sistema multiagente para la evaluaci\xF3n de clasificadores"
     year: '2007'
   xNr_IMUAAAAJ:CMvovTBb2okC:
-    citations: 141
+    citations: 142
     title: 'Photo Privacy Conflicts in Social Media: A Large-scale Empirical Study'
     year: '2017'
   xNr_IMUAAAAJ:CRzUtm-VnGAC:
@@ -166,8 +166,8 @@ papers:
     title: Understanding security requirements for industrial control system supply chains
     year: '2019'
   xNr_IMUAAAAJ:DPO9WFcz7UcC:
-    citations: 1
-    title: 'The Governance of Intimacy: A Preliminary Policy Analysis of Romantic AI Platforms'
+    citations: 2
+    title: 'The governance of intimacy: A preliminary policy analysis of romantic AI platforms'
     year: '2026'
   xNr_IMUAAAAJ:E8ajGqO0XoUC:
     citations: 4
@@ -186,7 +186,7 @@ papers:
     title: '" These cameras are just like the Eye of Sauron": A Sociotechnical Threat Model for AI-Driven Smart Home Devices as Perceived by UK-Based Domestic Workers'
     year: '2026'
   xNr_IMUAAAAJ:F9HO9s0W2bwC:
-    citations: 11
+    citations: 12
     title: Exploring the privacy and security challenges faced by migrant domestic workers in chinese smart homes
     year: '2025'
   xNr_IMUAAAAJ:GJVTs2krol4C:
@@ -194,11 +194,11 @@ papers:
     title: 'Truth or dare: Understanding and predicting how users lie and provide untruthful data online'
     year: '2021'
   xNr_IMUAAAAJ:GUYAmugLYisC:
-    citations: 432
+    citations: 434
     title: Privacy norms for smart home personal assistants
     year: '2021'
   xNr_IMUAAAAJ:GiYFt9mpioMC:
-    citations: 30
+    citations: 31
     title: 'When forcing collaboration is the most sensible choice: Desirability of precautionary and dissuasive mechanisms to manage multiparty privacy conflicts'
     year: '2021'
   xNr_IMUAAAAJ:Gpwnp1kGG20C:
@@ -214,7 +214,7 @@ papers:
     title: 'Sharing policies in multiuser privacy scenarios: Incorporating context, preferences, and arguments in decision making'
     year: '2017'
   xNr_IMUAAAAJ:I-2NeQpV75MC:
-    citations: 84
+    citations: 85
     title: 'Healthcare voice AI assistants: factors influencing trust and intention to use'
     year: '2024'
   xNr_IMUAAAAJ:IExZWSxeYXUC:
@@ -274,7 +274,7 @@ papers:
     title: "Experiencias con una T\xE9cnica de Aprendizaje Activo basada en Retroalimentaci\xF3n Instant\xE1nea y An\xF3nima"
     year: '2012'
   xNr_IMUAAAAJ:KqnX2w3egDsC:
-    citations: 28
+    citations: 29
     title: Ignorance is bliss? The effect of explanations on perceptions of voice assistants
     year: '2023'
   xNr_IMUAAAAJ:L7vk9XBBNxgC:
@@ -314,7 +314,7 @@ papers:
     title: Grand Challenges in Human-Centered Privacy
     year: '2025'
   xNr_IMUAAAAJ:N6_Y7JlWxwsC:
-    citations: 301
+    citations: 303
     title: 'Smart Home Personal Assistants: A Security and Privacy Review'
     year: '2020'
   xNr_IMUAAAAJ:NU-BerS4NX4C:
@@ -334,7 +334,7 @@ papers:
     title: 'Pacman: Personal agent for access control in social media'
     year: '2017'
   xNr_IMUAAAAJ:Oj-SLI0tZTcC:
-    citations: 22
+    citations: 23
     title: 'CASE-Bench: Context-Aware SafEty Benchmark for Large Language Models'
     year: '2025'
   xNr_IMUAAAAJ:PVqtIyvKoSUC:
@@ -366,7 +366,7 @@ papers:
     title: Supporting Dynamicity in Emergency Response Applications
     year: '2014'
   xNr_IMUAAAAJ:RVqaWcrwK10C:
-    citations: 25
+    citations: 26
     title: 'Bystander Privacy in Smart Homes: A Systematic Review of Concerns and Solutions'
     year: '2025'
   xNr_IMUAAAAJ:S2WlVNSe3u4C:
@@ -402,7 +402,7 @@ papers:
     title: A performance evaluation of three multiagent platforms
     year: '2010'
   xNr_IMUAAAAJ:U3qCfcK-7lkC:
-    citations: 11
+    citations: 12
     title: 'Beyond individual concerns: multi-user privacy in large language models'
     year: '2024'
   xNr_IMUAAAAJ:U5uP8zs9lfgC:
@@ -466,7 +466,7 @@ papers:
     title: Developing Secure Agent Infrastructures with Open Standards and Open-Source Technologies
     year: '2011'
   xNr_IMUAAAAJ:ZYsTHYU9jrMC:
-    citations: 8
+    citations: 9
     title: Privacy Perspectives and Practices of Chinese Smart Home Product Teams
     year: '2026'
   xNr_IMUAAAAJ:ZeXyd9-uunAC:
@@ -497,6 +497,10 @@ papers:
     citations: 1
     title: A Tool for Retrieving Meaningful Privacy Information from Social Networks
     year: '2012'
+  xNr_IMUAAAAJ:_n8fIOMweQoC:
+    citations: 1
+    title: '''It literally feeds on data'': Co-designing Privacy Conscious and Trustworthy LLM Dialogues with End Users'
+    year: '2026'
   xNr_IMUAAAAJ:aCwMkEyfDy8C:
     citations: 0
     title: Unweighted ranking for value-based decision making with uncertainty
@@ -558,8 +562,8 @@ papers:
     title: An Active Learning Technique Enhanced with Electronic Polls
     year: '2015'
   xNr_IMUAAAAJ:e9bUPLv0EjcC:
-    citations: 9
-    title: 'Privacy in Human-AI Romantic Relationships: Concerns, Boundaries, and Agency'
+    citations: 10
+    title: 'Privacy in human-AI romantic relationships: Concerns, boundaries, and agency'
     year: '2026'
   xNr_IMUAAAAJ:eQOLeE2rZwMC:
     citations: 5
@@ -570,11 +574,11 @@ papers:
     title: The Effectiveness of Personal Data Detection in LLM-Based Conversational Agents
     year: '2025'
   xNr_IMUAAAAJ:fF_gHTpLxhAC:
-    citations: 2
-    title: Investigating Bystander Privacy in Chinese Smart Home Apps
+    citations: 3
+    title: Investigating bystander privacy in Chinese smart home apps
     year: '2026'
   xNr_IMUAAAAJ:feST4K8J0scC:
-    citations: 57
+    citations: 58
     title: A systematic review of ethical concerns with voice assistants
     year: '2023'
   xNr_IMUAAAAJ:gFrPXmx1TSsC:
@@ -642,7 +646,7 @@ papers:
     title: 'All that glitters is not gold: on the effectiveness of cyber security qualifications'
     year: '2017'
   xNr_IMUAAAAJ:jKT558fuBk8C:
-    citations: 22
+    citations: 24
     title: Preferences for AI explanations based on cognitive style and socio-cultural factors
     year: '2024'
   xNr_IMUAAAAJ:jRIwE-1ttnoC:
@@ -674,7 +678,7 @@ papers:
     title: Mitigating Negative Impacts from Socio-Technical AI
     year: '2025'
   xNr_IMUAAAAJ:nWoA1JPTheMC:
-    citations: 51
+    citations: 52
     title: Privacy and Autonomous Systems.
     year: '2017'
   xNr_IMUAAAAJ:oFn-K-OQSCAC:
@@ -694,7 +698,7 @@ papers:
     title: "\u201CCreate an environment that protects women, rather than selling anxiety!\u201D: Participatory Threat Modelling with Chinese Young Women Living Alone"
     year: '2026'
   xNr_IMUAAAAJ:oldoQiaHq2UC:
-    citations: 85
+    citations: 87
     title: Discovering and categorising language biases in reddit
     year: '2021'
   xNr_IMUAAAAJ:oqD4_j7ulsYC:
@@ -810,7 +814,7 @@ papers:
     title: 'The security of smart buildings: a systematic literature review'
     year: '2019'
   xNr_IMUAAAAJ:wlzmIqt2EaEC:
-    citations: 25
+    citations: 26
     title: Malicious LLM-Based Conversational AI Makes Users Reveal Personal Information
     year: '2025'
   xNr_IMUAAAAJ:wuD5JclIwkYC:
@@ -822,7 +826,7 @@ papers:
     title: THE TOXIC TURN? CONCEPTUAL AND METHODOLOGICAL ADVANCES ON PROBLEMATIC CONTENTS ON SOCIAL MEDIA
     year: '2022'
   xNr_IMUAAAAJ:xa5BkEQK8BgC:
-    citations: 31
+    citations: 32
     title: An explainable assistant for multiuser privacy
     year: '2022'
   xNr_IMUAAAAJ:yIeBiWEAh44C:
@@ -834,7 +838,7 @@ papers:
     title: Intelligent Cybersecurity Agents
     year: '2016'
   xNr_IMUAAAAJ:yKzB5RS27GgC:
-    citations: 35
+    citations: 36
     title: Privacy perceptions of custom gpts by users and creators
     year: '2025'
   xNr_IMUAAAAJ:yZoBfgUKqwcC:
@@ -854,6 +858,6 @@ papers:
     title: Hacia el diseno de plataformas multiagente cercanas al sistema operativo
     year: '2007'
   xNr_IMUAAAAJ:zzCxg_vo7cAC:
-    citations: 101
+    citations: 102
     title: Digital discrimination
     year: '2019'
