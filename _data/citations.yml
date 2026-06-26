@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-06-26'
 papers:
   xNr_IMUAAAAJ:-38epGy1wY0C:
     citations: 6
@@ -214,7 +214,7 @@ papers:
     title: 'Sharing policies in multiuser privacy scenarios: Incorporating context, preferences, and arguments in decision making'
     year: '2017'
   xNr_IMUAAAAJ:I-2NeQpV75MC:
-    citations: 85
+    citations: 86
     title: 'Healthcare voice AI assistants: factors influencing trust and intention to use'
     year: '2024'
   xNr_IMUAAAAJ:IExZWSxeYXUC:
@@ -337,6 +337,10 @@ papers:
     citations: 23
     title: 'CASE-Bench: Context-Aware SafEty Benchmark for Large Language Models'
     year: '2025'
+  xNr_IMUAAAAJ:Oo_WeVVXg5wC:
+    citations: 0
+    title: "\u201CUsers are worried, but we are confused\u201D: Exploring the Privacy, Security, and Safety Perspectives and Practices of FemHealth App Product Team Members"
+    year: '2026'
   xNr_IMUAAAAJ:PVqtIyvKoSUC:
     citations: 13
     title: Non-sharing communities? An empirical study of community detection for access control decisions
@@ -466,7 +470,7 @@ papers:
     title: Developing Secure Agent Infrastructures with Open Standards and Open-Source Technologies
     year: '2011'
   xNr_IMUAAAAJ:ZYsTHYU9jrMC:
-    citations: 9
+    citations: 10
     title: Privacy Perspectives and Practices of Chinese Smart Home Product Teams
     year: '2026'
   xNr_IMUAAAAJ:ZeXyd9-uunAC:
@@ -526,7 +530,7 @@ papers:
     title: HOW SOCIAL ARE SOCIAL MEDIA PRIVACY CONTROLS?
     year: Unknown Year
   xNr_IMUAAAAJ:cSdaV2aYdYsC:
-    citations: 57
+    citations: 58
     title: 'Basic cyber hygiene: Does it work?'
     year: '2019'
   xNr_IMUAAAAJ:cdwqcPQS8ssC:
@@ -554,7 +558,7 @@ papers:
     title: Strategies for avoiding preference profiling in agent-based e-commerce environments
     year: '2014'
   xNr_IMUAAAAJ:dhpJJ7xvgBgC:
-    citations: 13
+    citations: 14
     title: Cross-partisan interactions on twitter
     year: '2025'
   xNr_IMUAAAAJ:e5wmG9Sq2KIC:
