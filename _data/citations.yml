@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-08'
 papers:
   xNr_IMUAAAAJ:-38epGy1wY0C:
     citations: 6
@@ -30,7 +30,7 @@ papers:
     title: Attesting biases and discrimination using language semantics
     year: '2019'
   xNr_IMUAAAAJ:1wZ_wKGpLuwC:
-    citations: 11
+    citations: 12
     title: 'Voice app developer experiences with Alexa and google assistant: Juggling risks, liability, and security'
     year: '2024'
   xNr_IMUAAAAJ:1xBWf43XMUgC:
@@ -70,7 +70,7 @@ papers:
     title: A scalable multiagent platform for large systems
     year: '2013'
   xNr_IMUAAAAJ:4E1Y8I9HL1wC:
-    citations: 30
+    citations: 31
     title: 'Legal obligation and ethical best practice: Towards meaningful verbal consent for voice assistants'
     year: '2023'
   xNr_IMUAAAAJ:4JMBOYKVnBMC:
@@ -90,7 +90,7 @@ papers:
     title: Extended Abstract of Privacy-enhanced AI Assistants based on Dialogues and Case Similarity
     year: '2024'
   xNr_IMUAAAAJ:5LPo_wSKItgC:
-    citations: 555
+    citations: 556
     title: 'Bias and discrimination in AI: a cross-disciplinary perspective'
     year: '2021'
   xNr_IMUAAAAJ:5nxA0vEk-isC:
@@ -126,7 +126,7 @@ papers:
     title: 'Proceedings of The Third International Workshop on Iinfraestructures and tools for multiagent systems: ITMAS 2012'
     year: '2012'
   xNr_IMUAAAAJ:9VeumLvkZSQC:
-    citations: 11
+    citations: 10
     title: Transformer-Based Quantification of the Echo Chamber Effect in Online Communities
     year: '2024'
   xNr_IMUAAAAJ:9tXw7Op4-u0C:
@@ -522,7 +522,7 @@ papers:
     title: Special Issue on Artificial Intelligence for Security and Privacy Introduction
     year: '2018'
   xNr_IMUAAAAJ:cOfwuRB03ygC:
-    citations: 55
+    citations: 56
     title: 'Ai in the gray: Exploring moderation policies in dialogic large language models vs. human answers in controversial topics'
     year: '2023'
   xNr_IMUAAAAJ:cRMvf6lLvU8C:
@@ -754,7 +754,7 @@ papers:
     title: 'Advanced Agent Technology: AAMAS Workshops 2011, AMPLE, AOSE, ARMS, DOCM3AS, ITMAS, Taipei, Taiwan, May 2-6, 2011. Revised Selected Papers'
     year: '2012'
   xNr_IMUAAAAJ:rzmi0EmCOGEC:
-    citations: 9
+    citations: 10
     title: 'Diverse migration journeys and security practices: engaging with longitudinal perspectives of migration and (digital) security'
     year: '2023'
   xNr_IMUAAAAJ:tBlTYpvFGQIC:
