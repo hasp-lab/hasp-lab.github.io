@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-10'
 papers:
   xNr_IMUAAAAJ:-38epGy1wY0C:
     citations: 6
@@ -138,7 +138,7 @@ papers:
     title: Kerberos-based secure multiagent platform
     year: '2008'
   xNr_IMUAAAAJ:BFa5h04uPMwC:
-    citations: 113
+    citations: 114
     title: 'Building better ai agents: A provocation on the utilisation of persona in llm-based conversational agents'
     year: '2024'
   xNr_IMUAAAAJ:CCeGMaHljPEC:
@@ -162,7 +162,7 @@ papers:
     title: A model for governing information sharing in smart assistants
     year: '2022'
   xNr_IMUAAAAJ:DIubQTN3OvUC:
-    citations: 35
+    citations: 36
     title: Understanding security requirements for industrial control system supply chains
     year: '2019'
   xNr_IMUAAAAJ:DPO9WFcz7UcC:
@@ -314,7 +314,7 @@ papers:
     title: Grand Challenges in Human-Centered Privacy
     year: '2025'
   xNr_IMUAAAAJ:N6_Y7JlWxwsC:
-    citations: 308
+    citations: 306
     title: 'Smart Home Personal Assistants: A Security and Privacy Review'
     year: '2020'
   xNr_IMUAAAAJ:NU-BerS4NX4C:
@@ -418,7 +418,7 @@ papers:
     title: Beliefs and Misconceptions around Integrated Conversational AI
     year: '2026'
   xNr_IMUAAAAJ:UeHWp8X0CEIC:
-    citations: 31
+    citations: 30
     title: Towards dynamic agent interaction support in open multiagent systems
     year: '2010'
   xNr_IMUAAAAJ:Ul_CLA4dPeMC:
@@ -454,7 +454,7 @@ papers:
     title: A normative approach to attest digital discrimination
     year: '2020'
   xNr_IMUAAAAJ:Y0pCki6q_DkC:
-    citations: 52
+    citations: 51
     title: Partial identities as a foundation for trust and reputation
     year: '2011'
   xNr_IMUAAAAJ:YGhAHpnIhDoC:
@@ -842,7 +842,7 @@ papers:
     title: Intelligent Cybersecurity Agents
     year: '2016'
   xNr_IMUAAAAJ:yKzB5RS27GgC:
-    citations: 36
+    citations: 37
     title: Privacy perceptions of custom gpts by users and creators
     year: '2025'
   xNr_IMUAAAAJ:yZoBfgUKqwcC:
