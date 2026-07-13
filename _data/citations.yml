@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-13'
 papers:
   xNr_IMUAAAAJ:-38epGy1wY0C:
     citations: 6
@@ -14,7 +14,7 @@ papers:
     title: Moral uncertainty and the problem of fanaticism
     year: '2024'
   xNr_IMUAAAAJ:0EnyYjriUFMC:
-    citations: 118
+    citations: 119
     title: A Survey of Privacy in Multi-agent Systems
     year: '2014'
   xNr_IMUAAAAJ:17ZO-CJnx_8C:
@@ -50,7 +50,7 @@ papers:
     title: '" My Best Friend''s Husband Sees and Knows Everything": A Cross-Contextual and Cross-Country Approach to Understanding Smart Home Privacy'
     year: '2024'
   xNr_IMUAAAAJ:3BvdIg-l-ZAC:
-    citations: 55
+    citations: 56
     title: Transparency for whom? Assessing discriminatory artificial intelligence
     year: '2020'
   xNr_IMUAAAAJ:3MwzVuqRcA0C:
@@ -90,7 +90,7 @@ papers:
     title: Extended Abstract of Privacy-enhanced AI Assistants based on Dialogues and Case Similarity
     year: '2024'
   xNr_IMUAAAAJ:5LPo_wSKItgC:
-    citations: 556
+    citations: 561
     title: 'Bias and discrimination in AI: a cross-disciplinary perspective'
     year: '2021'
   xNr_IMUAAAAJ:5nxA0vEk-isC:
@@ -138,7 +138,7 @@ papers:
     title: Kerberos-based secure multiagent platform
     year: '2008'
   xNr_IMUAAAAJ:BFa5h04uPMwC:
-    citations: 114
+    citations: 115
     title: 'Building better ai agents: A provocation on the utilisation of persona in llm-based conversational agents'
     year: '2024'
   xNr_IMUAAAAJ:CCeGMaHljPEC:
@@ -194,7 +194,7 @@ papers:
     title: 'Truth or dare: Understanding and predicting how users lie and provide untruthful data online'
     year: '2021'
   xNr_IMUAAAAJ:GUYAmugLYisC:
-    citations: 436
+    citations: 437
     title: Privacy norms for smart home personal assistants
     year: '2021'
   xNr_IMUAAAAJ:GiYFt9mpioMC:
@@ -222,7 +222,7 @@ papers:
     title: 'Towards safer chatbots: A framework for policy compliance evaluation of custom gpts'
     year: '2025'
   xNr_IMUAAAAJ:IHkkN1K1AlAC:
-    citations: 59
+    citations: 60
     title: 'ELVIRA: an Explainable Agent for Value and Utility-driven Multiuser Privacy'
     year: '2021'
   xNr_IMUAAAAJ:IT1MJ6E3JesC:
@@ -238,7 +238,7 @@ papers:
     title: "A group\u2010oriented secure multiagent platform"
     year: '2011'
   xNr_IMUAAAAJ:It0W0vAlS5QC:
-    citations: 14
+    citations: 15
     title: Explainable AI for Cultural Minds
     year: '2020'
   xNr_IMUAAAAJ:IvSMUa3B7yYC:
@@ -253,6 +253,10 @@ papers:
     citations: 12
     title: "When it\u2019s not worth the paper it\u2019s written on: A provocation on the certification of skills in the alexa and google assistant ecosystems"
     year: '2022'
+  xNr_IMUAAAAJ:JIEWM9yDoCIC:
+    citations: 0
+    title: 'Security and Privacy in Agentic AI: Grand Challenges and Future Directions'
+    year: '2026'
   xNr_IMUAAAAJ:JV2RwH3_ST0C:
     citations: 31
     title: Assurance techniques for industrial control systems (ics)
@@ -308,13 +312,13 @@ papers:
   xNr_IMUAAAAJ:MqTxh1vmwXEC:
     citations: 0
     title: 'Comparative Analysis of Jailbreaking Techniques for Large Language Models: A'
-    year: Unknown Year
+    year: '2026'
   xNr_IMUAAAAJ:Mx5hWS9ctUkC:
     citations: 8
     title: Grand Challenges in Human-Centered Privacy
     year: '2025'
   xNr_IMUAAAAJ:N6_Y7JlWxwsC:
-    citations: 306
+    citations: 309
     title: 'Smart Home Personal Assistants: A Security and Privacy Review'
     year: '2020'
   xNr_IMUAAAAJ:NU-BerS4NX4C:
@@ -354,7 +358,7 @@ papers:
     title: 'Towards safer chatbots: Automated policy compliance evaluation of custom GPTs'
     year: '2026'
   xNr_IMUAAAAJ:Q3-QASNKTMEC:
-    citations: 14
+    citations: 15
     title: Privacy-enhanced personal assistants based on dialogues and case similarity
     year: '2023'
   xNr_IMUAAAAJ:QIV2ME_5wuYC:
@@ -370,7 +374,7 @@ papers:
     title: Supporting Dynamicity in Emergency Response Applications
     year: '2014'
   xNr_IMUAAAAJ:RVqaWcrwK10C:
-    citations: 29
+    citations: 30
     title: 'Bystander Privacy in Smart Homes: A Systematic Review of Concerns and Solutions'
     year: '2025'
   xNr_IMUAAAAJ:S2WlVNSe3u4C:
@@ -418,15 +422,15 @@ papers:
     title: Beliefs and Misconceptions around Integrated Conversational AI
     year: '2026'
   xNr_IMUAAAAJ:UeHWp8X0CEIC:
-    citations: 30
+    citations: 31
     title: Towards dynamic agent interaction support in open multiagent systems
     year: '2010'
   xNr_IMUAAAAJ:Ul_CLA4dPeMC:
-    citations: 31
+    citations: 32
     title: 'Malprotect: Stateful defense against adversarial query attacks in ml-based malware detection'
     year: '2023'
   xNr_IMUAAAAJ:VjBpw8Hezy4C:
-    citations: 28
+    citations: 29
     title: Intersectional experiences of unfair treatment caused by automated computational systems
     year: '2022'
   xNr_IMUAAAAJ:VnuxuLaQPLMC:
@@ -454,7 +458,7 @@ papers:
     title: A normative approach to attest digital discrimination
     year: '2020'
   xNr_IMUAAAAJ:Y0pCki6q_DkC:
-    citations: 51
+    citations: 52
     title: Partial identities as a foundation for trust and reputation
     year: '2011'
   xNr_IMUAAAAJ:YGhAHpnIhDoC:
@@ -566,7 +570,7 @@ papers:
     title: An Active Learning Technique Enhanced with Electronic Polls
     year: '2015'
   xNr_IMUAAAAJ:e9bUPLv0EjcC:
-    citations: 13
+    citations: 14
     title: 'Privacy in human-AI romantic relationships: Concerns, boundaries, and agency'
     year: '2026'
   xNr_IMUAAAAJ:eQOLeE2rZwMC:
@@ -682,7 +686,7 @@ papers:
     title: Mitigating Negative Impacts from Socio-Technical AI
     year: '2025'
   xNr_IMUAAAAJ:nWoA1JPTheMC:
-    citations: 52
+    citations: 53
     title: Privacy and Autonomous Systems.
     year: '2017'
   xNr_IMUAAAAJ:oFn-K-OQSCAC:
@@ -798,7 +802,7 @@ papers:
     title: Self-disclosure decision making based on intimacy and privacy
     year: '2012'
   xNr_IMUAAAAJ:ujxm2eEBZHIC:
-    citations: 61
+    citations: 62
     title: Automated GDPR compliance assessment for cross-border personal data transfers in android applications
     year: '2023'
   xNr_IMUAAAAJ:vjZqxyZ7hS4C:
@@ -814,11 +818,11 @@ papers:
     title: 'Assured deletion in the cloud: requirements, challenges and future directions'
     year: '2016'
   xNr_IMUAAAAJ:wBLCggQE-ToC:
-    citations: 105
+    citations: 104
     title: 'The security of smart buildings: a systematic literature review'
     year: '2019'
   xNr_IMUAAAAJ:wlzmIqt2EaEC:
-    citations: 26
+    citations: 27
     title: Malicious LLM-Based Conversational AI Makes Users Reveal Personal Information
     year: '2025'
   xNr_IMUAAAAJ:wuD5JclIwkYC:
@@ -842,7 +846,7 @@ papers:
     title: Intelligent Cybersecurity Agents
     year: '2016'
   xNr_IMUAAAAJ:yKzB5RS27GgC:
-    citations: 37
+    citations: 38
     title: Privacy perceptions of custom gpts by users and creators
     year: '2025'
   xNr_IMUAAAAJ:yZoBfgUKqwcC:
@@ -862,6 +866,6 @@ papers:
     title: Hacia el diseno de plataformas multiagente cercanas al sistema operativo
     year: '2007'
   xNr_IMUAAAAJ:zzCxg_vo7cAC:
-    citations: 104
+    citations: 105
     title: Digital discrimination
     year: '2019'
